@@ -1,1 +1,1 @@
-![Marc Auberer](https://github.com/marcauberer/marcauberer/tree/master/images/colorconverter.png)
+![Marc Auberer](https://raw.githubusercontent.com/marcauberer/marcauberer/master/images/colorconverter.png)

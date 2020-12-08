@@ -3,5 +3,5 @@
 	<br><br>
 	<b>Hi, I'm Marc. Software and OpenSource enthusiast, primarily developing Android applications. Thanks for visiting my GitHub profile!
 	<br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=marcauberer&show_icons=true" alt="GitHub stats">
+	<img src="https://github-readme-stats.vercel.app/api?username=marcauberer&show_icons=true&theme=dark" alt="GitHub stats">
 </p>

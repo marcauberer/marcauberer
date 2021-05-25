@@ -3,7 +3,7 @@ name: Generate README
 on:
   push:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 4 * * *"
 
 jobs:
   markscribe:
@@ -17,7 +17,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: templates/readme.md.tpl
-          writeTo: "README.md"
+          writeTo: README.md
 
       - uses: actions/upload-artifact@v1
         with:

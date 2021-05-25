@@ -1,0 +1,32 @@
+name: Generate README
+
+on:
+  push:
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        with:
+          template: templates/readme.md.tpl
+          writeTo: "README.md"
+
+      - uses: actions/upload-artifact@v1
+        with:
+          name: README.md
+          path: README.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: Re-generate README
+          branch: main

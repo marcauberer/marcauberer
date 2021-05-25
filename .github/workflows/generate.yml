@@ -3,7 +3,7 @@ name: Generate README
 on:
   push:
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   markscribe:

@@ -12,8 +12,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [marcauberer/compose-number-picker](https://github.com/marcauberer/compose-number-picker) ([1.0.4](https://github.com/marcauberer/compose-number-picker/releases/tag/1.0.4), today) - 🔢 Jetpack Compose compatible number picker for Android
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.0), today) - Deliver Go binaries as fast and easily as possible
+- [marcauberer/compose-number-picker](https://github.com/marcauberer/compose-number-picker) ([1.0.4](https://github.com/marcauberer/compose-number-picker/releases/tag/1.0.4), 1 day ago) - 🔢 Jetpack Compose compatible number picker for Android
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v8.8.6](https://github.com/mikepenz/AboutLibraries/releases/tag/v8.8.6), 1 week ago) - AboutLibraries is a library to offer some information of libraries.
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.6.3](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.6.3), 1 week ago) - Screen Stream over HTTP mobile app
 - [marcauberer/adobe-color-tool](https://github.com/marcauberer/adobe-color-tool) ([1.0.1](https://github.com/marcauberer/adobe-color-tool/releases/tag/1.0.1), 1 week ago) - 🎨 Android library for importing / exporting colors as ACO &amp; ASE files

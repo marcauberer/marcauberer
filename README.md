@@ -7,10 +7,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.6.4](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.6.4), 1 day ago) - Screen Stream over HTTP mobile app
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.168.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.168.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([0.1.0](https://github.com/compose-generator/ccom/releases/tag/0.1.0), 5 days ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
-- [livepoll/live-poll](https://github.com/livepoll/live-poll) ([0.7.0](https://github.com/livepoll/live-poll/releases/tag/0.7.0), 6 days ago) - Live-Poll Angular Frontend
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.168.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.168.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.6.4](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.6.4), 2 days ago) - Screen Stream over HTTP mobile app
+- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([0.1.0](https://github.com/compose-generator/ccom/releases/tag/0.1.0), 6 days ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
+- [livepoll/live-poll](https://github.com/livepoll/live-poll) ([0.7.0](https://github.com/livepoll/live-poll/releases/tag/0.7.0), 1 week ago) - Live-Poll Angular Frontend
 - [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v8.9.0](https://github.com/mikepenz/AboutLibraries/releases/tag/v8.9.0), 1 week ago) - AboutLibraries is a library to offer some information of libraries.
 - [marcauberer/compose-number-picker](https://github.com/marcauberer/compose-number-picker) ([1.0.4](https://github.com/marcauberer/compose-number-picker/releases/tag/1.0.4), 1 week ago) - 🔢 Jetpack Compose compatible number picker for Android
 - [marcauberer/adobe-color-tool](https://github.com/marcauberer/adobe-color-tool) ([1.0.1](https://github.com/marcauberer/adobe-color-tool/releases/tag/1.0.1), 3 weeks ago) - 🎨 Android library for importing / exporting colors as ACO &amp; ASE files

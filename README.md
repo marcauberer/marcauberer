@@ -7,9 +7,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.168.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.168.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.6.4](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.6.4), 2 days ago) - Screen Stream over HTTP mobile app
-- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([0.1.0](https://github.com/compose-generator/ccom/releases/tag/0.1.0), 6 days ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.6.4](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.6.4), 3 days ago) - Screen Stream over HTTP mobile app
+- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([0.1.0](https://github.com/compose-generator/ccom/releases/tag/0.1.0), 1 week ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
 - [livepoll/live-poll](https://github.com/livepoll/live-poll) ([0.7.0](https://github.com/livepoll/live-poll/releases/tag/0.7.0), 1 week ago) - Live-Poll Angular Frontend
 - [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v8.9.0](https://github.com/mikepenz/AboutLibraries/releases/tag/v8.9.0), 1 week ago) - AboutLibraries is a library to offer some information of libraries.
 - [marcauberer/compose-number-picker](https://github.com/marcauberer/compose-number-picker) ([1.0.4](https://github.com/marcauberer/compose-number-picker/releases/tag/1.0.4), 1 week ago) - 🔢 Jetpack Compose compatible number picker for Android

@@ -4,13 +4,13 @@
 	<b>Hi, I'm Marc. Software and OpenSource enthusiast, primarily developing Android applications. Thanks for visiting my GitHub profile!
 </p>
 
-#### 🚀 Latest releases I've contributed to
+### 🚀 Latest releases I've contributed to
 
 {{ range recentReleases 7 }}
 - [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}){{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
 
-#### 👨‍💻 Repositories I created recently
+### 👨‍💻 Repositories I created recently
 
 {{- range recentRepos 3 }}
 - [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}

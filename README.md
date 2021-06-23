@@ -7,9 +7,9 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.7.0](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.7.0), 1 day ago) - Screen Stream over HTTP mobile app
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([0.2.0](https://github.com/compose-generator/ccom/releases/tag/0.2.0), 5 days ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
+- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([0.3.0](https://github.com/compose-generator/ccom/releases/tag/0.3.0), 1 day ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.7.0](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.7.0), 2 days ago) - Screen Stream over HTTP mobile app
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [livepoll/live-poll](https://github.com/livepoll/live-poll) ([0.8.0](https://github.com/livepoll/live-poll/releases/tag/0.8.0), 1 week ago) - Live-Poll Angular Frontend
 - [livepoll/live-poll-api](https://github.com/livepoll/live-poll-api) ([0.8.0](https://github.com/livepoll/live-poll-api/releases/tag/0.8.0), 1 week ago) - Live-Poll Spring Backend
 - [chillibits/color-converter](https://github.com/chillibits/color-converter) ([2.6.2](https://github.com/chillibits/color-converter/releases/tag/2.6.2), 2 weeks ago) - Color Converter - Tool for programmers / designers to pick and convert colors

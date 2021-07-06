@@ -7,11 +7,11 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [chillibits/drawing-activity](https://github.com/chillibits/drawing-activity) ([2.0.8](https://github.com/chillibits/drawing-activity/releases/tag/2.0.8), 4 days ago) - Android library for getting lightweight DrawingActivity into your Android app
-- [chillibits/splash-screen](https://github.com/chillibits/splash-screen) ([1.1.7](https://github.com/chillibits/splash-screen/releases/tag/1.1.7), 4 days ago) - Android library for getting a nice and simple SlashScreen into your Android app
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.7.1](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.7.1), 4 days ago) - Screen Stream over HTTP mobile app
-- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([0.5.0](https://github.com/compose-generator/ccom/releases/tag/0.5.0), 6 days ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.7.3](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.7.3), 1 day ago) - Screen Stream over HTTP mobile app
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [chillibits/drawing-activity](https://github.com/chillibits/drawing-activity) ([2.0.8](https://github.com/chillibits/drawing-activity/releases/tag/2.0.8), 5 days ago) - Android library for getting lightweight DrawingActivity into your Android app
+- [chillibits/splash-screen](https://github.com/chillibits/splash-screen) ([1.1.7](https://github.com/chillibits/splash-screen/releases/tag/1.1.7), 5 days ago) - Android library for getting a nice and simple SlashScreen into your Android app
+- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([0.5.0](https://github.com/compose-generator/ccom/releases/tag/0.5.0), 1 week ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
 - [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.0.0-beta.2](https://github.com/mongodb/bson-rust/releases/tag/v2.0.0-beta.2), 1 week ago) - Encoding and decoding support for BSON in Rust
 - [livepoll/live-poll](https://github.com/livepoll/live-poll) ([0.8.0](https://github.com/livepoll/live-poll/releases/tag/0.8.0), 3 weeks ago) - Live-Poll Angular Frontend
 

@@ -7,13 +7,13 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([0.8.0](https://github.com/compose-generator/toolbox/releases/tag/0.8.0), 1 day ago) - 🛠️ Compose Generator Toolbox to emulate a Linux environment to execute certain commands
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.7.3](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.7.3), 3 days ago) - Screen Stream over HTTP mobile app
+- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([0.8.0](https://github.com/compose-generator/compose-generator/releases/tag/0.8.0), 1 day ago) - 🐳 Easy to use cli to generate Docker Compose YAML configuration files.
+- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([0.8.0](https://github.com/compose-generator/toolbox/releases/tag/0.8.0), 2 days ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.7.3](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.7.3), 4 days ago) - Screen Stream over HTTP mobile app
 - [chillibits/drawing-activity](https://github.com/chillibits/drawing-activity) ([2.0.8](https://github.com/chillibits/drawing-activity/releases/tag/2.0.8), 1 week ago) - Android library for getting lightweight DrawingActivity into your Android app
 - [chillibits/splash-screen](https://github.com/chillibits/splash-screen) ([1.1.7](https://github.com/chillibits/splash-screen/releases/tag/1.1.7), 1 week ago) - Android library for getting a nice and simple SlashScreen into your Android app
 - [compose-generator/ccom](https://github.com/compose-generator/ccom) ([0.5.0](https://github.com/compose-generator/ccom/releases/tag/0.5.0), 1 week ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
-- [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.0.0-beta.2](https://github.com/mongodb/bson-rust/releases/tag/v2.0.0-beta.2), 1 week ago) - Encoding and decoding support for BSON in Rust
 
 ### 👨‍💻 Repositories I created recently
 - [marcauberer/compose-number-picker](https://github.com/marcauberer/compose-number-picker) - 🔢 Jetpack Compose compatible number picker for Android

@@ -7,8 +7,8 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([0.8.0](https://github.com/compose-generator/compose-generator/releases/tag/0.8.0), 5 days ago) - 🐳 Easy to use cli to generate Docker Compose YAML configuration files.
-- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([0.8.0](https://github.com/compose-generator/toolbox/releases/tag/0.8.0), 6 days ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
+- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([0.8.0](https://github.com/compose-generator/compose-generator/releases/tag/0.8.0), 6 days ago) - 🐳 Easy to use cli to generate Docker Compose configuration files.
+- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([0.8.0](https://github.com/compose-generator/toolbox/releases/tag/0.8.0), 1 week ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.7.3](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.7.3), 1 week ago) - Screen Stream over HTTP mobile app
 - [chillibits/drawing-activity](https://github.com/chillibits/drawing-activity) ([2.0.8](https://github.com/chillibits/drawing-activity/releases/tag/2.0.8), 1 week ago) - Android library for getting lightweight DrawingActivity into your Android app

@@ -7,13 +7,13 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.7.4](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.7.4), 2 days ago) - Screen Stream over HTTP mobile app
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [mikecao/umami](https://github.com/mikecao/umami) ([v1.20.0](https://github.com/mikecao/umami/releases/tag/v1.20.0), 2 days ago) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.6.1](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.6.1), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
+- [chillibits/spice](https://github.com/chillibits/spice) ([0.1.0](https://github.com/chillibits/spice/releases/tag/0.1.0), 1 day ago) - Spice Programming Language
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.7.4](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.7.4), 3 days ago) - Screen Stream over HTTP mobile app
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [mikecao/umami](https://github.com/mikecao/umami) ([v1.20.0](https://github.com/mikecao/umami/releases/tag/v1.20.0), 3 days ago) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v8.9.1](https://github.com/mikepenz/AboutLibraries/releases/tag/v8.9.1), 1 week ago) - AboutLibraries is a library to offer some information of libraries.
 - [marcauberer/simple-settings](https://github.com/marcauberer/simple-settings) ([1.3.1](https://github.com/marcauberer/simple-settings/releases/tag/1.3.1), 1 week ago) - ⚙️ Simple Settings library for Android
-- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([0.6.0](https://github.com/compose-generator/ccom/releases/tag/0.6.0), 1 week ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
-- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([0.8.0](https://github.com/compose-generator/compose-generator/releases/tag/0.8.0), 2 weeks ago) - 🐳 Easy to use cli to generate Docker Compose configuration files
 
 ### 👨‍💻 Repositories I created recently
 - [marcauberer/compose-number-picker](https://github.com/marcauberer/compose-number-picker) - 🔢 Jetpack Compose compatible number picker for Android

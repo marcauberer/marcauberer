@@ -21,5 +21,5 @@
 - [marcauberer/algorithm-collection](https://github.com/marcauberer/algorithm-collection) - Collection for algorithms and summaries of function and properties
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=marcauberer&show_icons=true&theme=dark" alt="GitHub stats">
+	<img src="https://github-readme-stats.vercel.app/api?username=marcauberer&show_icons=true&count_private=true&theme=dark" alt="GitHub stats">
 </p>

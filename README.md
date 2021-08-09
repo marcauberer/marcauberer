@@ -7,13 +7,13 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [chillibits/spice](https://github.com/chillibits/spice) ([0.2.0](https://github.com/chillibits/spice/releases/tag/0.2.0), 1 day ago) - Spice Programming Language
-- [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.0.0-beta.3](https://github.com/mongodb/bson-rust/releases/tag/v2.0.0-beta.3), 2 days ago) - Encoding and decoding support for BSON in Rust
-- [marcauberer/simple-settings](https://github.com/marcauberer/simple-settings) ([1.3.2](https://github.com/marcauberer/simple-settings/releases/tag/1.3.2), 2 days ago) - ⚙️ Simple Settings library for Android
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.7.0-RC2](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.7.0-RC2), 2 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.7.5](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.7.5), 6 days ago) - Screen Stream over HTTP mobile app
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.2), 6 days ago) - Deliver Go binaries as fast and easily as possible
-- [chillibits/color-converter](https://github.com/chillibits/color-converter) ([2.7.1](https://github.com/chillibits/color-converter/releases/tag/2.7.1), 1 week ago) - Color Converter - Tool for programmers / designers to pick and convert colors
+- [go-playground/universal-translator](https://github.com/go-playground/universal-translator) ([v0.18.0](https://github.com/go-playground/universal-translator/releases/tag/v0.18.0), 1 day ago) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules
+- [chillibits/spice](https://github.com/chillibits/spice) ([0.2.0](https://github.com/chillibits/spice/releases/tag/0.2.0), 2 days ago) - Spice Programming Language
+- [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.0.0-beta.3](https://github.com/mongodb/bson-rust/releases/tag/v2.0.0-beta.3), 3 days ago) - Encoding and decoding support for BSON in Rust
+- [marcauberer/simple-settings](https://github.com/marcauberer/simple-settings) ([1.3.2](https://github.com/marcauberer/simple-settings/releases/tag/1.3.2), 3 days ago) - ⚙️ Simple Settings library for Android
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.7.0-RC2](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.7.0-RC2), 3 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.7.5](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.7.5), 1 week ago) - Screen Stream over HTTP mobile app
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
 
 ### 👨‍💻 Repositories I created recently
 - [marcauberer/compose-number-picker](https://github.com/marcauberer/compose-number-picker) - 🔢 Jetpack Compose compatible number picker for Android

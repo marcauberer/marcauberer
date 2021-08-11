@@ -7,11 +7,11 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.7.0-RC3](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.7.0-RC3), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
-- [go-playground/universal-translator](https://github.com/go-playground/universal-translator) ([v0.18.0](https://github.com/go-playground/universal-translator/releases/tag/v0.18.0), 2 days ago) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules
-- [chillibits/spice](https://github.com/chillibits/spice) ([0.2.0](https://github.com/chillibits/spice/releases/tag/0.2.0), 3 days ago) - Spice Programming Language
-- [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.0.0-beta.3](https://github.com/mongodb/bson-rust/releases/tag/v2.0.0-beta.3), 4 days ago) - Encoding and decoding support for BSON in Rust
-- [marcauberer/simple-settings](https://github.com/marcauberer/simple-settings) ([1.3.2](https://github.com/marcauberer/simple-settings/releases/tag/1.3.2), 4 days ago) - ⚙️ Simple Settings library for Android
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.7.0-RC3](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.7.0-RC3), 2 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [go-playground/universal-translator](https://github.com/go-playground/universal-translator) ([v0.18.0](https://github.com/go-playground/universal-translator/releases/tag/v0.18.0), 3 days ago) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules
+- [chillibits/spice](https://github.com/chillibits/spice) ([0.2.0](https://github.com/chillibits/spice/releases/tag/0.2.0), 4 days ago) - Spice Programming Language
+- [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.0.0-beta.3](https://github.com/mongodb/bson-rust/releases/tag/v2.0.0-beta.3), 5 days ago) - Encoding and decoding support for BSON in Rust
+- [marcauberer/simple-settings](https://github.com/marcauberer/simple-settings) ([1.3.2](https://github.com/marcauberer/simple-settings/releases/tag/1.3.2), 5 days ago) - ⚙️ Simple Settings library for Android
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.7.5](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.7.5), 1 week ago) - Screen Stream over HTTP mobile app
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
 

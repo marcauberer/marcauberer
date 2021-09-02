@@ -7,7 +7,7 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.9.0-RC1](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.9.0-RC1), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.9.0-RC2](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.9.0-RC2), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
 - [compose-generator/ccom](https://github.com/compose-generator/ccom) ([0.8.1](https://github.com/compose-generator/ccom/releases/tag/0.8.1), 1 week ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.176.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.176.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.7.6](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.7.6), 1 week ago) - Screen Stream over HTTP mobile app

@@ -7,8 +7,8 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.9.0-RC2](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.9.0-RC2), 4 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.9.0-RC2](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.9.0-RC2), 5 days ago) - Native Android app using the Apple/Google exposure notification API.
 - [compose-generator/ccom](https://github.com/compose-generator/ccom) ([0.8.1](https://github.com/compose-generator/ccom/releases/tag/0.8.1), 1 week ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.7.6](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.7.6), 1 week ago) - Screen Stream over HTTP mobile app
 - [mikecao/umami](https://github.com/mikecao/umami) ([v1.22.0](https://github.com/mikecao/umami/releases/tag/v1.22.0), 2 weeks ago) - Umami is a simple, fast, website analytics alternative to Google Analytics.

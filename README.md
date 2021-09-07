@@ -7,13 +7,13 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.9.0-RC2](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.9.0-RC2), 5 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [compose-generator/ccom](https://github.com/compose-generator/ccom) ([0.8.1](https://github.com/compose-generator/ccom/releases/tag/0.8.1), 1 week ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.7.6](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.7.6), 1 week ago) - Screen Stream over HTTP mobile app
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.7.6](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.7.6), 2 weeks ago) - Screen Stream over HTTP mobile app
 - [mikecao/umami](https://github.com/mikecao/umami) ([v1.22.0](https://github.com/mikecao/umami/releases/tag/v1.22.0), 2 weeks ago) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [chillibits/spice](https://github.com/chillibits/spice) ([0.3.0](https://github.com/chillibits/spice/releases/tag/0.3.0), 2 weeks ago) - Spice Programming Language
-- [go-playground/universal-translator](https://github.com/go-playground/universal-translator) ([v0.18.0](https://github.com/go-playground/universal-translator/releases/tag/v0.18.0), 4 weeks ago) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules
+- [go-playground/universal-translator](https://github.com/go-playground/universal-translator) ([v0.18.0](https://github.com/go-playground/universal-translator/releases/tag/v0.18.0), 1 month ago) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules
+- [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.0.0-beta.3](https://github.com/mongodb/bson-rust/releases/tag/v2.0.0-beta.3), 1 month ago) - Encoding and decoding support for BSON in Rust
 
 ### 👨‍💻 Repositories I created recently
 - [marcauberer/compose-number-picker](https://github.com/marcauberer/compose-number-picker) - 🔢 Jetpack Compose compatible number picker for Android

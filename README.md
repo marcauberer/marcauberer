@@ -7,12 +7,12 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.10.0-RC0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.10.0-RC0), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
-- [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.0.0](https://github.com/mongodb/bson-rust/releases/tag/v2.0.0), 2 days ago) - Encoding and decoding support for BSON in Rust
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.178.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.178.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.10.0-RC0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.10.0-RC0), 2 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.0.0](https://github.com/mongodb/bson-rust/releases/tag/v2.0.0), 3 days ago) - Encoding and decoding support for BSON in Rust
 - [compose-generator/ccom](https://github.com/compose-generator/ccom) ([0.8.1](https://github.com/compose-generator/ccom/releases/tag/0.8.1), 2 weeks ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.7.6](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.7.6), 2 weeks ago) - Screen Stream over HTTP mobile app
-- [mikecao/umami](https://github.com/mikecao/umami) ([v1.22.0](https://github.com/mikecao/umami/releases/tag/v1.22.0), 2 weeks ago) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [mikecao/umami](https://github.com/mikecao/umami) ([v1.22.0](https://github.com/mikecao/umami/releases/tag/v1.22.0), 3 weeks ago) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [chillibits/spice](https://github.com/chillibits/spice) ([0.3.0](https://github.com/chillibits/spice/releases/tag/0.3.0), 3 weeks ago) - Spice Programming Language
 
 ### 👨‍💻 Repositories I created recently

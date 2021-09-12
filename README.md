@@ -7,11 +7,11 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([0.9.0](https://github.com/compose-generator/compose-generator/releases/tag/0.9.0), today) - 🐳 Easy to use cli to generate Docker Compose configuration files
-- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([0.9.0](https://github.com/compose-generator/toolbox/releases/tag/0.9.0), 1 day ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.178.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.178.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.10.0-RC0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.10.0-RC0), 3 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.0.0](https://github.com/mongodb/bson-rust/releases/tag/v2.0.0), 4 days ago) - Encoding and decoding support for BSON in Rust
+- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([0.9.0](https://github.com/compose-generator/compose-generator/releases/tag/0.9.0), 1 day ago) - 🐳 Easy to use cli to generate Docker Compose configuration files
+- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([0.9.0](https://github.com/compose-generator/toolbox/releases/tag/0.9.0), 2 days ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.178.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.178.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.10.0-RC0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.10.0-RC0), 4 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.0.0](https://github.com/mongodb/bson-rust/releases/tag/v2.0.0), 5 days ago) - Encoding and decoding support for BSON in Rust
 - [compose-generator/ccom](https://github.com/compose-generator/ccom) ([0.8.1](https://github.com/compose-generator/ccom/releases/tag/0.8.1), 2 weeks ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.7.6](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.7.6), 2 weeks ago) - Screen Stream over HTTP mobile app
 

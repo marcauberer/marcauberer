@@ -7,9 +7,9 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.10.0-RC2](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.10.0-RC2), 4 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.8.0](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.8.0), 4 days ago) - Screen Stream over HTTP mobile app
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.10.0-RC2](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.10.0-RC2), 5 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.8.0](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.8.0), 5 days ago) - Screen Stream over HTTP mobile app
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([0.9.0](https://github.com/compose-generator/compose-generator/releases/tag/0.9.0), 1 week ago) - 🐳 Easy to use cli to generate Docker Compose configuration files
 - [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([0.9.0](https://github.com/compose-generator/toolbox/releases/tag/0.9.0), 1 week ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
 - [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.0.0](https://github.com/mongodb/bson-rust/releases/tag/v2.0.0), 1 week ago) - Encoding and decoding support for BSON in Rust

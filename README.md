@@ -7,13 +7,13 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v8.9.2](https://github.com/mikepenz/AboutLibraries/releases/tag/v8.9.2), 1 day ago) - AboutLibraries is a library to offer some information of libraries.
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.11.1-RC0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.11.1-RC0), 2 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.8.1](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.8.1), 4 days ago) - Screen Stream over HTTP mobile app
+- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.0.0-rc1](https://github.com/compose-generator/compose-generator/releases/tag/1.0.0-rc1), 1 day ago) - 🐳 Easy to use cli to generate Docker Compose configuration files
+- [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v8.9.2](https://github.com/mikepenz/AboutLibraries/releases/tag/v8.9.2), 2 days ago) - AboutLibraries is a library to offer some information of libraries.
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.11.1-RC0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.11.1-RC0), 3 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.8.1](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.8.1), 5 days ago) - Screen Stream over HTTP mobile app
 - [chillibits/particulate-matter-app](https://github.com/chillibits/particulate-matter-app) ([3.5.2](https://github.com/chillibits/particulate-matter-app/releases/tag/3.5.2), 1 week ago) - Particulate Matter App - Be informed about the particulate matter situation and air quality!
 - [compose-generator/ccom](https://github.com/compose-generator/ccom) ([0.9.0](https://github.com/compose-generator/ccom/releases/tag/0.9.0), 1 week ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
-- [marcauberer/adobe-color-tool](https://github.com/marcauberer/adobe-color-tool) ([1.0.3](https://github.com/marcauberer/adobe-color-tool/releases/tag/1.0.3), 1 week ago) - 🎨 Android library for importing / exporting colors as ACO &amp; ASE files
 
 ### 👨‍💻 Repositories I created recently
 - [marcauberer/compose-number-picker](https://github.com/marcauberer/compose-number-picker) - 🔢 Jetpack Compose compatible number picker for Android

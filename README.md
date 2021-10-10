@@ -7,12 +7,12 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.11.2](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.11.2), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
-- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.0.0-rc4](https://github.com/compose-generator/compose-generator/releases/tag/1.0.0-rc4), 1 day ago) - 🐳 Easy to use cli to generate Docker Compose configuration files
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.181.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [mikecao/umami](https://github.com/mikecao/umami) ([v1.23.0](https://github.com/mikecao/umami/releases/tag/v1.23.0), 3 days ago) - Umami is a simple, fast, website analytics alternative to Google Analytics.
-- [files-community/Files](https://github.com/files-community/Files) ([v2.0.1](https://github.com/files-community/Files/releases/tag/v2.0.1), 5 days ago) - A modern file manager that pushes the boundaries of the platform.
-- [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v8.9.3](https://github.com/mikepenz/AboutLibraries/releases/tag/v8.9.3), 6 days ago) - AboutLibraries is a library to offer some information of libraries.
+- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.0.0-rc5](https://github.com/compose-generator/compose-generator/releases/tag/1.0.0-rc5), 1 day ago) - 🐳 Easy to use cli to generate Docker Compose configuration files
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.11.2](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.11.2), 2 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.181.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [mikecao/umami](https://github.com/mikecao/umami) ([v1.23.0](https://github.com/mikecao/umami/releases/tag/v1.23.0), 4 days ago) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [files-community/Files](https://github.com/files-community/Files) ([v2.0.1](https://github.com/files-community/Files/releases/tag/v2.0.1), 6 days ago) - A modern file manager that pushes the boundaries of the platform.
+- [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v8.9.3](https://github.com/mikepenz/AboutLibraries/releases/tag/v8.9.3), 1 week ago) - AboutLibraries is a library to offer some information of libraries.
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.8.1](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.8.1), 1 week ago) - Screen Stream over HTTP mobile app
 
 ### 👨‍💻 Repositories I created recently

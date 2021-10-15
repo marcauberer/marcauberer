@@ -7,13 +7,13 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.12.0-RC2](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.12.0-RC2), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.182.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.182.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.0.0](https://github.com/compose-generator/compose-generator/releases/tag/1.0.0), 2 days ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
-- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.0.0](https://github.com/compose-generator/ccom/releases/tag/1.0.0), 3 days ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
-- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.0.0](https://github.com/compose-generator/toolbox/releases/tag/1.0.0), 3 days ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.12.1-RC0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.12.1-RC0), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
+- [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v9.0.0-a02](https://github.com/mikepenz/AboutLibraries/releases/tag/v9.0.0-a02), 1 day ago) - AboutLibraries is a library to offer some information of libraries.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.182.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.182.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.0.0](https://github.com/compose-generator/compose-generator/releases/tag/1.0.0), 3 days ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
+- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.0.0](https://github.com/compose-generator/ccom/releases/tag/1.0.0), 4 days ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
+- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.0.0](https://github.com/compose-generator/toolbox/releases/tag/1.0.0), 4 days ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
 - [mikecao/umami](https://github.com/mikecao/umami) ([v1.23.0](https://github.com/mikecao/umami/releases/tag/v1.23.0), 1 week ago) - Umami is a simple, fast, website analytics alternative to Google Analytics.
-- [files-community/Files](https://github.com/files-community/Files) ([v2.0.13](https://github.com/files-community/Files/releases/tag/v2.0.13), 1 week ago) - A modern file manager that pushes the boundaries of the platform.
 
 ### 👨‍💻 Repositories I created recently
 - [marcauberer/compose-number-picker](https://github.com/marcauberer/compose-number-picker) - 🔢 Jetpack Compose compatible number picker for Android

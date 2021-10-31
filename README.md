@@ -7,8 +7,8 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.13.1-RC1](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.13.1-RC1), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
-- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.1.0](https://github.com/compose-generator/ccom/releases/tag/1.1.0), 2 days ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.13.1-RC1](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.13.1-RC1), 2 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.1.0](https://github.com/compose-generator/ccom/releases/tag/1.1.0), 3 days ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
 - [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.1.0](https://github.com/compose-generator/compose-generator/releases/tag/1.1.0), 1 week ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
 - [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.1.0](https://github.com/compose-generator/toolbox/releases/tag/1.1.0), 1 week ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
 - [chillibits/color-converter](https://github.com/chillibits/color-converter) ([2.7.2](https://github.com/chillibits/color-converter/releases/tag/2.7.2), 1 week ago) - Color Converter - Tool for programmers / designers to pick and convert colors

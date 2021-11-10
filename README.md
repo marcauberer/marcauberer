@@ -7,13 +7,13 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.2.1](https://github.com/compose-generator/toolbox/releases/tag/1.2.1), 1 day ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
-- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.2.1](https://github.com/compose-generator/compose-generator/releases/tag/1.2.1), 1 day ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
-- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.2.0](https://github.com/compose-generator/ccom/releases/tag/1.2.0), 3 days ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
-- [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v10.0.0-a04](https://github.com/mikepenz/AboutLibraries/releases/tag/v10.0.0-a04), 3 days ago) - AboutLibraries automatically detects all dependencies of a project and collects their information including the license. Optionally visualising it via the provided ui components.
-- [antlr/antlr4](https://github.com/antlr/antlr4) ([4.9.3](https://github.com/antlr/antlr4/releases/tag/4.9.3), 3 days ago) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.13.2](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.13.2), 3 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [files-community/Files](https://github.com/files-community/Files) ([v2.0.34](https://github.com/files-community/Files/releases/tag/v2.0.34), 4 days ago) - A modern file manager that pushes the boundaries of the platform.
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.13.3-RC0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.13.3-RC0), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
+- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.2.1](https://github.com/compose-generator/toolbox/releases/tag/1.2.1), 2 days ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
+- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.2.1](https://github.com/compose-generator/compose-generator/releases/tag/1.2.1), 2 days ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
+- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.2.0](https://github.com/compose-generator/ccom/releases/tag/1.2.0), 4 days ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
+- [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v10.0.0-a04](https://github.com/mikepenz/AboutLibraries/releases/tag/v10.0.0-a04), 4 days ago) - AboutLibraries automatically detects all dependencies of a project and collects their information including the license. Optionally visualising it via the provided ui components.
+- [antlr/antlr4](https://github.com/antlr/antlr4) ([4.9.3](https://github.com/antlr/antlr4/releases/tag/4.9.3), 4 days ago) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
+- [files-community/Files](https://github.com/files-community/Files) ([v2.0.34](https://github.com/files-community/Files/releases/tag/v2.0.34), 5 days ago) - A modern file manager that pushes the boundaries of the platform.
 
 ### 👨‍💻 Repositories I created recently
 - [marcauberer/compose-number-picker](https://github.com/marcauberer/compose-number-picker) - 🔢 Jetpack Compose compatible number picker for Android

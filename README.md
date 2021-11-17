@@ -7,12 +7,12 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.14.0-RC1](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.14.0-RC1), 4 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v10.0.0-a05](https://github.com/mikepenz/AboutLibraries/releases/tag/v10.0.0-a05), 4 days ago) - AboutLibraries automatically detects all dependencies of a project and collects their information including the license. Optionally visualising it via the provided ui components.
-- [eknoes/golem-android-reader](https://github.com/eknoes/golem-android-reader) ([v1.2.3](https://github.com/eknoes/golem-android-reader/releases/tag/v1.2.3), 5 days ago) - This is an unofficial android application for golem.de
-- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.2.1](https://github.com/compose-generator/toolbox/releases/tag/1.2.1), 1 week ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
-- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.2.1](https://github.com/compose-generator/compose-generator/releases/tag/1.2.1), 1 week ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
+- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.3.0](https://github.com/compose-generator/toolbox/releases/tag/1.3.0), 1 day ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
+- [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.1.0-beta](https://github.com/mongodb/bson-rust/releases/tag/v2.1.0-beta), 1 day ago) - Encoding and decoding support for BSON in Rust
+- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.3.0](https://github.com/compose-generator/compose-generator/releases/tag/1.3.0), 1 day ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v10.0.0-a05](https://github.com/mikepenz/AboutLibraries/releases/tag/v10.0.0-a05), 5 days ago) - AboutLibraries automatically detects all dependencies of a project and collects their information including the license. Optionally visualising it via the provided ui components.
+- [eknoes/golem-android-reader](https://github.com/eknoes/golem-android-reader) ([v1.2.3](https://github.com/eknoes/golem-android-reader/releases/tag/v1.2.3), 6 days ago) - This is an unofficial android application for golem.de
 - [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.2.0](https://github.com/compose-generator/ccom/releases/tag/1.2.0), 1 week ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
 
 ### 👨‍💻 Repositories I created recently

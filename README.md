@@ -7,9 +7,9 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v10.0.0-b02](https://github.com/mikepenz/AboutLibraries/releases/tag/v10.0.0-b02), 1 day ago) - AboutLibraries automatically detects all dependencies of a project and collects their information including the license. Optionally visualising it via the provided ui components.
-- [mikecao/umami](https://github.com/mikecao/umami) ([v1.24.1](https://github.com/mikecao/umami/releases/tag/v1.24.1), 3 days ago) - Umami is a simple, fast, website analytics alternative to Google Analytics.
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.14.1](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.14.1), 3 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v10.0.0-b02](https://github.com/mikepenz/AboutLibraries/releases/tag/v10.0.0-b02), 2 days ago) - AboutLibraries automatically detects all dependencies of a project and collects their information including the license. Optionally visualising it via the provided ui components.
+- [mikecao/umami](https://github.com/mikecao/umami) ([v1.24.1](https://github.com/mikecao/umami/releases/tag/v1.24.1), 4 days ago) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.14.1](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.14.1), 4 days ago) - Native Android app using the Apple/Google exposure notification API.
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.8.4](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.8.4), 1 week ago) - Screen Stream over HTTP mobile app
 - [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.3.0](https://github.com/compose-generator/toolbox/releases/tag/1.3.0), 1 week ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
 - [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.1.0-beta](https://github.com/mongodb/bson-rust/releases/tag/v2.1.0-beta), 1 week ago) - Encoding and decoding support for BSON in Rust

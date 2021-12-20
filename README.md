@@ -7,10 +7,10 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v10.0.0-b05](https://github.com/mikepenz/AboutLibraries/releases/tag/v10.0.0-b05), 2 days ago) - AboutLibraries automatically detects all dependencies of a project and collects their information including the license. Optionally visualising it via the provided ui components.
-- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.5.0](https://github.com/compose-generator/compose-generator/releases/tag/1.5.0), 3 days ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
-- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.5.0](https://github.com/compose-generator/toolbox/releases/tag/1.5.0), 3 days ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
-- [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.1.0](https://github.com/mongodb/bson-rust/releases/tag/v2.1.0), 5 days ago) - Encoding and decoding support for BSON in Rust
+- [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v10.0.0-b05](https://github.com/mikepenz/AboutLibraries/releases/tag/v10.0.0-b05), 3 days ago) - AboutLibraries automatically detects all dependencies of a project and collects their information including the license. Optionally visualising it via the provided ui components.
+- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.5.0](https://github.com/compose-generator/compose-generator/releases/tag/1.5.0), 4 days ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
+- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.5.0](https://github.com/compose-generator/toolbox/releases/tag/1.5.0), 4 days ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
+- [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.1.0](https://github.com/mongodb/bson-rust/releases/tag/v2.1.0), 6 days ago) - Encoding and decoding support for BSON in Rust
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.8.5](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.8.5), 1 week ago) - Screen Stream over HTTP mobile app
 - [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) ([1.0.1](https://github.com/skydoves/android-developer-roadmap/releases/tag/1.0.1), 1 week ago) - 🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.
 - [chillibits/spice](https://github.com/chillibits/spice) ([0.5.0](https://github.com/chillibits/spice/releases/tag/0.5.0), 2 weeks ago) - Spice Programming Language

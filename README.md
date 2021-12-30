@@ -7,11 +7,11 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.6.0](https://github.com/compose-generator/compose-generator/releases/tag/1.6.0), 1 day ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.16.0-RC3](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.16.0-RC3), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
-- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.6.0](https://github.com/compose-generator/toolbox/releases/tag/1.6.0), 1 day ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.8.6](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.8.6), 6 days ago) - Screen Stream over HTTP mobile app
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.2.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.2.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.3), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.6.0](https://github.com/compose-generator/compose-generator/releases/tag/1.6.0), 2 days ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.16.0-RC3](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.16.0-RC3), 2 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.6.0](https://github.com/compose-generator/toolbox/releases/tag/1.6.0), 2 days ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.8.6](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.8.6), 1 week ago) - Screen Stream over HTTP mobile app
 - [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v10.0.0-b06](https://github.com/mikepenz/AboutLibraries/releases/tag/v10.0.0-b06), 1 week ago) - AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin Multi Platform), and provides easy to integrate UI components for Android and Compose-jb environments 
 - [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.1.0](https://github.com/mongodb/bson-rust/releases/tag/v2.1.0), 2 weeks ago) - Encoding and decoding support for BSON in Rust
 

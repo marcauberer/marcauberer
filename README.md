@@ -7,11 +7,11 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.7.0](https://github.com/compose-generator/compose-generator/releases/tag/1.7.0), 1 day ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.3.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.3.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.7.0](https://github.com/compose-generator/toolbox/releases/tag/1.7.0), 1 day ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.16.1-RC1](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.16.1-RC1), 2 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [files-community/Files](https://github.com/files-community/Files) ([v2.1](https://github.com/files-community/Files/releases/tag/v2.1), 5 days ago) - A modern file manager that pushes the boundaries of the platform.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.3.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.3.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.7.0](https://github.com/compose-generator/compose-generator/releases/tag/1.7.0), 2 days ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
+- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.7.0](https://github.com/compose-generator/toolbox/releases/tag/1.7.0), 2 days ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.16.1-RC1](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.16.1-RC1), 3 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [files-community/Files](https://github.com/files-community/Files) ([v2.1](https://github.com/files-community/Files/releases/tag/v2.1), 6 days ago) - A modern file manager that pushes the boundaries of the platform.
 - [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) ([v10.0.0-b07](https://github.com/mikepenz/AboutLibraries/releases/tag/v10.0.0-b07), 1 week ago) - AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin Multi Platform), and provides easy to integrate UI components for Android and Compose-jb environments 
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.11.2](https://github.com/pygments/pygments/releases/tag/2.11.2), 1 week ago) - Pygments is a generic syntax highlighter written in Python
 

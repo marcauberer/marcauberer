@@ -7,8 +7,8 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.17.0-RC1](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.17.0-RC1), 3 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [mikecao/umami](https://github.com/mikecao/umami) ([v1.25.0](https://github.com/mikecao/umami/releases/tag/v1.25.0), 6 days ago) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.17.0-RC1](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.17.0-RC1), 4 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [mikecao/umami](https://github.com/mikecao/umami) ([v1.25.0](https://github.com/mikecao/umami/releases/tag/v1.25.0), 1 week ago) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [files-community/Files](https://github.com/files-community/Files) ([v2.1.2](https://github.com/files-community/Files/releases/tag/v2.1.2), 1 week ago) - A modern file manager that pushes the boundaries of the platform.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.3.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.3.1), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.7.0](https://github.com/compose-generator/compose-generator/releases/tag/1.7.0), 1 week ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations

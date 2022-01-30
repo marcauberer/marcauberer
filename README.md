@@ -7,11 +7,11 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) ([1.0.2](https://github.com/skydoves/android-developer-roadmap/releases/tag/1.0.2), 1 day ago) - 🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.17.1-RC0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.17.1-RC0), 2 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.4.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.4.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) ([1.0.2](https://github.com/skydoves/android-developer-roadmap/releases/tag/1.0.2), 2 days ago) - 🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.17.1-RC0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.17.1-RC0), 3 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.4.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.4.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [mikecao/umami](https://github.com/mikecao/umami) ([v1.25.0](https://github.com/mikecao/umami/releases/tag/v1.25.0), 1 week ago) - Umami is a simple, fast, website analytics alternative to Google Analytics.
-- [files-community/Files](https://github.com/files-community/Files) ([v2.1.2](https://github.com/files-community/Files/releases/tag/v2.1.2), 1 week ago) - A modern file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) ([v2.1.2](https://github.com/files-community/Files/releases/tag/v2.1.2), 2 weeks ago) - A modern file manager for Windows
 - [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.7.0](https://github.com/compose-generator/compose-generator/releases/tag/1.7.0), 2 weeks ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
 - [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.7.0](https://github.com/compose-generator/toolbox/releases/tag/1.7.0), 2 weeks ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
 

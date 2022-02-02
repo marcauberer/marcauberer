@@ -7,12 +7,12 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([1.0.1](https://github.com/spicelang/spice-setup-action/releases/tag/1.0.1), 1 day ago) - GitHub Action to Setup Spice 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.6.0](https://github.com/spicelang/spice/releases/tag/0.6.0), 1 day ago) - Spice Programming Language
-- [files-community/Files](https://github.com/files-community/Files) ([v2.1.5](https://github.com/files-community/Files/releases/tag/v2.1.5), 2 days ago) - A modern file manager for Windows
-- [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) ([1.0.2](https://github.com/skydoves/android-developer-roadmap/releases/tag/1.0.2), 4 days ago) - 🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.17.1-RC0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.17.1-RC0), 5 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.4.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.4.1), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([1.0.1](https://github.com/spicelang/spice-setup-action/releases/tag/1.0.1), 2 days ago) - GitHub Action to Setup Spice 
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.6.0](https://github.com/spicelang/spice/releases/tag/0.6.0), 2 days ago) - Spice Programming Language
+- [files-community/Files](https://github.com/files-community/Files) ([v2.1.5](https://github.com/files-community/Files/releases/tag/v2.1.5), 3 days ago) - A modern file manager for Windows
+- [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) ([1.0.2](https://github.com/skydoves/android-developer-roadmap/releases/tag/1.0.2), 5 days ago) - 🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.17.1-RC0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.17.1-RC0), 6 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.4.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.4.1), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [mikecao/umami](https://github.com/mikecao/umami) ([v1.25.0](https://github.com/mikecao/umami/releases/tag/v1.25.0), 2 weeks ago) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 
 ### 👨‍💻 Repositories I created recently

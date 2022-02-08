@@ -7,13 +7,13 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.17.2](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.17.2), 3 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.6.1](https://github.com/spicelang/spice/releases/tag/0.6.1), 5 days ago) - Spice Programming Language
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.6.2](https://github.com/spicelang/spice/releases/tag/0.6.2), 1 day ago) - Spice Programming Language
+- [files-community/Files](https://github.com/files-community/Files) ([v2.1.7](https://github.com/files-community/Files/releases/tag/v2.1.7), 1 day ago) - A modern file manager for Windows
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.17.2](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.17.2), 4 days ago) - Native Android app using the Apple/Google exposure notification API.
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([1.0.1](https://github.com/spicelang/spice-setup-action/releases/tag/1.0.1), 1 week ago) - GitHub Action to Setup Spice 
-- [files-community/Files](https://github.com/files-community/Files) ([v2.1.5](https://github.com/files-community/Files/releases/tag/v2.1.5), 1 week ago) - A modern file manager for Windows
 - [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) ([1.0.2](https://github.com/skydoves/android-developer-roadmap/releases/tag/1.0.2), 1 week ago) - 🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.4.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.4.1), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [mikecao/umami](https://github.com/mikecao/umami) ([v1.25.0](https://github.com/mikecao/umami/releases/tag/v1.25.0), 2 weeks ago) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [mikecao/umami](https://github.com/mikecao/umami) ([v1.25.0](https://github.com/mikecao/umami/releases/tag/v1.25.0), 3 weeks ago) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 
 ### 👨‍💻 Repositories I created recently
 - [marcauberer/compose-number-picker](https://github.com/marcauberer/compose-number-picker) - 🔢 Jetpack Compose compatible number picker for Android

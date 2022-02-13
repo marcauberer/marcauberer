@@ -7,12 +7,12 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.18.0-rc.3](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.18.0-rc.3), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
-- [files-community/Files](https://github.com/files-community/Files) ([v2.1.13](https://github.com/files-community/Files/releases/tag/v2.1.13), 3 days ago) - A modern file manager for Windows
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.6.2](https://github.com/spicelang/spice/releases/tag/0.6.2), 5 days ago) - Spice Programming Language
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.18.0-rc.3](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.18.0-rc.3), 2 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [files-community/Files](https://github.com/files-community/Files) ([v2.1.13](https://github.com/files-community/Files/releases/tag/v2.1.13), 4 days ago) - A modern file manager for Windows
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.6.2](https://github.com/spicelang/spice/releases/tag/0.6.2), 6 days ago) - Spice Programming Language
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([1.0.1](https://github.com/spicelang/spice-setup-action/releases/tag/1.0.1), 1 week ago) - GitHub Action to Setup Spice 
 - [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) ([1.0.2](https://github.com/skydoves/android-developer-roadmap/releases/tag/1.0.2), 2 weeks ago) - 🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.4.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.4.1), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [mikecao/umami](https://github.com/mikecao/umami) ([v1.25.0](https://github.com/mikecao/umami/releases/tag/v1.25.0), 3 weeks ago) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 
 ### 👨‍💻 Repositories I created recently

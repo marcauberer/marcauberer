@@ -7,9 +7,9 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.8.7](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.8.7), 1 day ago) - Screen Stream Android app
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.6.4](https://github.com/spicelang/spice/releases/tag/0.6.4), 3 days ago) - Spice Programming Language
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.18.0-rc.5](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.18.0-rc.5), 3 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.6.5](https://github.com/spicelang/spice/releases/tag/0.6.5), 1 day ago) - Spice Programming Language
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.8.7](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.8.7), 2 days ago) - Screen Stream Android app
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.18.0-rc.5](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.18.0-rc.5), 4 days ago) - Native Android app using the Apple/Google exposure notification API.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [files-community/Files](https://github.com/files-community/Files) ([v2.1.13](https://github.com/files-community/Files/releases/tag/v2.1.13), 1 week ago) - A modern file manager for Windows
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([1.0.1](https://github.com/spicelang/spice-setup-action/releases/tag/1.0.1), 2 weeks ago) - GitHub Action to Setup Spice 

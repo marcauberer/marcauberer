@@ -7,12 +7,12 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [files-community/Files](https://github.com/files-community/Files) ([v2.1.15](https://github.com/files-community/Files/releases/tag/v2.1.15), 2 days ago) - A modern file manager for Windows
-- [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.1](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.1), 3 days ago) - GitHub Action to setup Spice 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.7.0](https://github.com/spicelang/spice/releases/tag/0.7.0), 3 days ago) - Spice Programming Language
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.19.0-rc.0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.19.0-rc.0), 3 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [spicelang/vscode-spice](https://github.com/spicelang/vscode-spice) ([1.0.0](https://github.com/spicelang/vscode-spice/releases/tag/1.0.0), 5 days ago) - VSCode language extension
-- [spicelang/intellij-spice](https://github.com/spicelang/intellij-spice) ([1.0.1](https://github.com/spicelang/intellij-spice/releases/tag/1.0.1), 5 days ago) - IntelliJ language extension for Spice
+- [files-community/Files](https://github.com/files-community/Files) ([v2.1.15](https://github.com/files-community/Files/releases/tag/v2.1.15), 3 days ago) - A modern file manager for Windows
+- [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.1](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.1), 4 days ago) - GitHub Action to setup Spice 
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.7.0](https://github.com/spicelang/spice/releases/tag/0.7.0), 4 days ago) - Spice Programming Language
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.19.0-rc.0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.19.0-rc.0), 4 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [spicelang/vscode-spice](https://github.com/spicelang/vscode-spice) ([1.0.0](https://github.com/spicelang/vscode-spice/releases/tag/1.0.0), 6 days ago) - VSCode language extension
+- [spicelang/intellij-spice](https://github.com/spicelang/intellij-spice) ([1.0.1](https://github.com/spicelang/intellij-spice/releases/tag/1.0.1), 6 days ago) - IntelliJ language extension for Spice
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.8.7](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.8.7), 1 week ago) - Screen Stream Android app
 
 ### 👨‍💻 Repositories I created recently

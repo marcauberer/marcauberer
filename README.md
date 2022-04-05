@@ -7,9 +7,9 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.21.0-rc.1](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.21.0-rc.1), 3 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.2.0-beta.1](https://github.com/mongodb/bson-rust/releases/tag/v2.2.0-beta.1), 4 days ago) - Encoding and decoding support for BSON in Rust
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.8.8](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.8.8), 5 days ago) - Screen Stream Android app
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.21.0-rc.1](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.21.0-rc.1), 4 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.2.0-beta.1](https://github.com/mongodb/bson-rust/releases/tag/v2.2.0-beta.1), 5 days ago) - Encoding and decoding support for BSON in Rust
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.8.8](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.8.8), 6 days ago) - Screen Stream Android app
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.7.6](https://github.com/spicelang/spice/releases/tag/0.7.6), 1 week ago) - Spice Programming Language
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [files-community/Files](https://github.com/files-community/Files) ([v2.1.24](https://github.com/files-community/Files/releases/tag/v2.1.24), 2 weeks ago) - A modern file manager for Windows

@@ -7,7 +7,7 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.21.0-rc.3](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.21.0-rc.3), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.21.0-rc.4.1](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.21.0-rc.4.1), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
 - [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.2.0-beta.1](https://github.com/mongodb/bson-rust/releases/tag/v2.2.0-beta.1), 1 week ago) - Encoding and decoding support for BSON in Rust
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.8.8](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.8.8), 1 week ago) - Screen Stream Android app
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.7.6](https://github.com/spicelang/spice/releases/tag/0.7.6), 1 week ago) - Spice Programming Language

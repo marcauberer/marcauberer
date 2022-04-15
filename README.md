@@ -7,11 +7,11 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.7.7](https://github.com/spicelang/spice/releases/tag/0.7.7), 2 days ago) - Spice Programming Language
-- [vedantmgoyal2009/vedantmgoyal2009](https://github.com/vedantmgoyal2009/vedantmgoyal2009) ([v1.0.0](https://github.com/vedantmgoyal2009/vedantmgoyal2009/releases/tag/v1.0.0), 2 days ago) - All my projects at one place :)
-- [antlr/antlr4](https://github.com/antlr/antlr4) ([4.10](https://github.com/antlr/antlr4/releases/tag/4.10), 3 days ago) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.21.0-rc.5](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.21.0-rc.5), 6 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.2.0-beta.1](https://github.com/mongodb/bson-rust/releases/tag/v2.2.0-beta.1), 2 weeks ago) - Encoding and decoding support for BSON in Rust
+- [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.2.0](https://github.com/mongodb/bson-rust/releases/tag/v2.2.0), 1 day ago) - Encoding and decoding support for BSON in Rust
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.21.1-rc.0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.21.1-rc.0), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.7.7](https://github.com/spicelang/spice/releases/tag/0.7.7), 3 days ago) - Spice Programming Language
+- [vedantmgoyal2009/vedantmgoyal2009](https://github.com/vedantmgoyal2009/vedantmgoyal2009) ([v1.0.0](https://github.com/vedantmgoyal2009/vedantmgoyal2009/releases/tag/v1.0.0), 3 days ago) - All my projects at one place :)
+- [antlr/antlr4](https://github.com/antlr/antlr4) ([4.10](https://github.com/antlr/antlr4/releases/tag/4.10), 4 days ago) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.8.8](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.8.8), 2 weeks ago) - Screen Stream Android app
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0), 3 weeks ago) - Deliver Go binaries as fast and easily as possible
 

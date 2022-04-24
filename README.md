@@ -7,10 +7,10 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.22.0-rc.0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.22.0-rc.0), 2 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.8.0](https://github.com/compose-generator/compose-generator/releases/tag/1.8.0), 6 days ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
-- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.8.0](https://github.com/compose-generator/toolbox/releases/tag/1.8.0), 6 days ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.22.0-rc.0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.22.0-rc.0), 3 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.8.0](https://github.com/compose-generator/compose-generator/releases/tag/1.8.0), 1 week ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
+- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.8.0](https://github.com/compose-generator/toolbox/releases/tag/1.8.0), 1 week ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
 - [antlr/antlr4](https://github.com/antlr/antlr4) ([4.10.1](https://github.com/antlr/antlr4/releases/tag/4.10.1), 1 week ago) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.2.0](https://github.com/mongodb/bson-rust/releases/tag/v2.2.0), 1 week ago) - Encoding and decoding support for BSON in Rust
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.7.7](https://github.com/spicelang/spice/releases/tag/0.7.7), 1 week ago) - Spice Programming Language

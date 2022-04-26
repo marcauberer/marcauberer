@@ -7,13 +7,13 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [pygments/pygments](https://github.com/pygments/pygments) ([2.12.0](https://github.com/pygments/pygments/releases/tag/2.12.0), 1 day ago) - Pygments is a generic syntax highlighter written in Python
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.22.0-rc.0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.22.0-rc.0), 4 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.22.0-rc.1](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.22.0-rc.1), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.7.8](https://github.com/spicelang/spice/releases/tag/0.7.8), 1 day ago) - Spice Programming Language
+- [pygments/pygments](https://github.com/pygments/pygments) ([2.12.0](https://github.com/pygments/pygments/releases/tag/2.12.0), 2 days ago) - Pygments is a generic syntax highlighter written in Python
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.8.0](https://github.com/compose-generator/compose-generator/releases/tag/1.8.0), 1 week ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
 - [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.8.0](https://github.com/compose-generator/toolbox/releases/tag/1.8.0), 1 week ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
 - [antlr/antlr4](https://github.com/antlr/antlr4) ([4.10.1](https://github.com/antlr/antlr4/releases/tag/4.10.1), 1 week ago) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
-- [mongodb/bson-rust](https://github.com/mongodb/bson-rust) ([v2.2.0](https://github.com/mongodb/bson-rust/releases/tag/v2.2.0), 1 week ago) - Encoding and decoding support for BSON in Rust
 
 ### 👨‍💻 Repositories I created recently
 - [marcauberer/spice-demo](https://github.com/marcauberer/spice-demo) - Demo for the Spice programming language

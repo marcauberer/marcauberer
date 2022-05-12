@@ -7,7 +7,7 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.23.0-rc.0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.23.0-rc.0), 2 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.23.0-rc.0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.23.0-rc.0), 3 days ago) - Native Android app using the Apple/Google exposure notification API.
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.2](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.2), 1 week ago) - GitHub Action to setup Spice 
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.8.0](https://github.com/spicelang/spice/releases/tag/0.8.0), 2 weeks ago) - Spice Programming Language
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.12.0](https://github.com/pygments/pygments/releases/tag/2.12.0), 2 weeks ago) - Pygments is a generic syntax highlighter written in Python

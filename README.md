@@ -7,10 +7,10 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.4.0](https://github.com/compose-generator/ccom/releases/tag/1.4.0), 2 days ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.23.0-rc.4](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.23.0-rc.4), 2 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.8.1](https://github.com/spicelang/spice/releases/tag/0.8.1), 3 days ago) - Spice Programming Language
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.1), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.23.0-rc.5](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.23.0-rc.5), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
+- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.4.0](https://github.com/compose-generator/ccom/releases/tag/1.4.0), 3 days ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.8.1](https://github.com/spicelang/spice/releases/tag/0.8.1), 4 days ago) - Spice Programming Language
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.1), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) ([1.0.4](https://github.com/skydoves/android-developer-roadmap/releases/tag/1.0.4), 1 week ago) - 🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.2](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.2), 3 weeks ago) - GitHub Action to setup Spice 
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.12.0](https://github.com/pygments/pygments/releases/tag/2.12.0), 1 month ago) - Pygments is a generic syntax highlighter written in Python

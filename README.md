@@ -7,9 +7,9 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.8.4](https://github.com/spicelang/spice/releases/tag/0.8.4), 1 day ago) - Spice Programming Language
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.24.0-rc.4](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.24.0-rc.4), 4 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.9.2](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.9.2), 5 days ago) - Screen Stream Android app
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.8.5](https://github.com/spicelang/spice/releases/tag/0.8.5), 1 day ago) - Spice Programming Language
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.24.0-rc.4](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.24.0-rc.4), 5 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.9.2](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.9.2), 6 days ago) - Screen Stream Android app
 - [marcauberer/music-manager](https://github.com/marcauberer/music-manager) ([1.0.0](https://github.com/marcauberer/music-manager/releases/tag/1.0.0), 4 weeks ago) - Project for Advanced Software Engineering
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2), 1 month ago) - Deliver Go binaries as fast and easily as possible
 - [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.4.0](https://github.com/compose-generator/ccom/releases/tag/1.4.0), 1 month ago) - ⚙️ Compiler for the CCom (Conditional Comments) language

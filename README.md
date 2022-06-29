@@ -7,8 +7,8 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.8.5](https://github.com/spicelang/spice/releases/tag/0.8.5), 2 days ago) - Spice Programming Language
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.24.0-rc.4](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.24.0-rc.4), 6 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.8.5](https://github.com/spicelang/spice/releases/tag/0.8.5), 3 days ago) - Spice Programming Language
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.24.0-rc.4](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.24.0-rc.4), 1 week ago) - Native Android app using the Apple/Google exposure notification API.
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.9.2](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.9.2), 1 week ago) - Screen Stream Android app
 - [marcauberer/music-manager](https://github.com/marcauberer/music-manager) ([1.0.0](https://github.com/marcauberer/music-manager/releases/tag/1.0.0), 1 month ago) - Project for Advanced Software Engineering
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2), 1 month ago) - Deliver Go binaries as fast and easily as possible

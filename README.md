@@ -7,9 +7,9 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.9.5](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.9.5), 5 days ago) - Screen Stream Android app
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.25.0-rc.2](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.25.0-rc.2), 1 week ago) - Native Android app using the Apple/Google exposure notification API.
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.9.6](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.9.6), 1 day ago) - Screen Stream Android app
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.25.0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.25.0), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.3](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.3), 1 week ago) - GitHub Action to setup Spice 
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.9.0](https://github.com/spicelang/spice/releases/tag/0.9.0), 1 week ago) - Spice Programming Language
 - [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.9.0](https://github.com/compose-generator/compose-generator/releases/tag/1.9.0), 3 weeks ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations

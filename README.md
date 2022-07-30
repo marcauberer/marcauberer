@@ -7,13 +7,13 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.9.6](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.9.6), 1 day ago) - Screen Stream Android app
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.25.0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.25.0), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.3](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.3), 1 week ago) - GitHub Action to setup Spice 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.9.0](https://github.com/spicelang/spice/releases/tag/0.9.0), 1 week ago) - Spice Programming Language
-- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.9.0](https://github.com/compose-generator/compose-generator/releases/tag/1.9.0), 3 weeks ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
-- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.9.0](https://github.com/compose-generator/toolbox/releases/tag/1.9.0), 3 weeks ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.9.6](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.9.6), 2 days ago) - Screen Stream Android app
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.25.0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.25.0), 2 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.3](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.3), 2 weeks ago) - GitHub Action to setup Spice 
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.9.0](https://github.com/spicelang/spice/releases/tag/0.9.0), 2 weeks ago) - Spice Programming Language
+- [compose-generator/compose-generator](https://github.com/compose-generator/compose-generator) ([1.9.0](https://github.com/compose-generator/compose-generator/releases/tag/1.9.0), 4 weeks ago) - 🐳 Easy to use cli tool to generate Docker Compose configurations
+- [compose-generator/toolbox](https://github.com/compose-generator/toolbox) ([1.9.0](https://github.com/compose-generator/toolbox/releases/tag/1.9.0), 4 weeks ago) - 🛠️ Toolbox for emulating a Linux environment to execute commands
 
 ### 👨‍💻 Repositories I created recently
 - [marcauberer/spice-demo](https://github.com/marcauberer/spice-demo) - Demo for the Spice programming language

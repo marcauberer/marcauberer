@@ -7,7 +7,7 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.26.0-rc.0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.26.0-rc.0), 4 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.26.0-rc.0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.26.0-rc.0), 5 days ago) - Native Android app using the Apple/Google exposure notification API.
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.10.0](https://github.com/spicelang/spice/releases/tag/0.10.0), 1 week ago) - Spice Programming Language
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-15.0.0-rc1](https://github.com/llvm/llvm-project/releases/tag/llvmorg-15.0.0-rc1), 1 week ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.9.6](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.9.6), 1 week ago) - Screen Stream Android app

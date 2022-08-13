@@ -7,13 +7,13 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [chillibits/color-converter](https://github.com/chillibits/color-converter) ([2.7.4](https://github.com/chillibits/color-converter/releases/tag/2.7.4), 1 day ago) - Color Converter - Tool for programmers / designers to pick and convert colors
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.26.0-rc.3](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.26.0-rc.3), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-15.0.0-rc2](https://github.com/llvm/llvm-project/releases/tag/llvmorg-15.0.0-rc2), 3 days ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.10.1](https://github.com/spicelang/spice/releases/tag/0.10.1), 3 days ago) - Spice Programming Language
+- [chillibits/color-converter](https://github.com/chillibits/color-converter) ([2.7.4](https://github.com/chillibits/color-converter/releases/tag/2.7.4), 2 days ago) - Color Converter - Tool for programmers / designers to pick and convert colors
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.26.0-rc.3](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.26.0-rc.3), 2 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-15.0.0-rc2](https://github.com/llvm/llvm-project/releases/tag/llvmorg-15.0.0-rc2), 4 days ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.10.1](https://github.com/spicelang/spice/releases/tag/0.10.1), 4 days ago) - Spice Programming Language
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.9.6](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.9.6), 2 weeks ago) - Screen Stream Android app
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
-- [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.3](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.3), 3 weeks ago) - GitHub Action to setup Spice 
+- [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.3](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.3), 4 weeks ago) - GitHub Action to setup Spice 
 
 ### 👨‍💻 Repositories I created recently
 - [marcauberer/spice-demo](https://github.com/marcauberer/spice-demo) - Demo for the Spice programming language

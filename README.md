@@ -7,7 +7,7 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [pygments/pygments](https://github.com/pygments/pygments) ([2.13.0](https://github.com/pygments/pygments/releases/tag/2.13.0), 6 days ago) - Pygments is a generic syntax highlighter written in Python
+- [pygments/pygments](https://github.com/pygments/pygments) ([2.13.0](https://github.com/pygments/pygments/releases/tag/2.13.0), 1 week ago) - Pygments is a generic syntax highlighter written in Python
 - [chillibits/color-converter](https://github.com/chillibits/color-converter) ([2.7.4](https://github.com/chillibits/color-converter/releases/tag/2.7.4), 1 week ago) - Color Converter - Tool for programmers / designers to pick and convert colors
 - [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.26.0-rc.3](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.26.0-rc.3), 1 week ago) - Native Android app using the Apple/Google exposure notification API.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-15.0.0-rc2](https://github.com/llvm/llvm-project/releases/tag/llvmorg-15.0.0-rc2), 1 week ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.

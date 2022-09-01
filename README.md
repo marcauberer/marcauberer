@@ -7,11 +7,11 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.10.4](https://github.com/spicelang/spice/releases/tag/0.10.4), 3 days ago) - Spice Programming Language
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-15.0.0-rc3](https://github.com/llvm/llvm-project/releases/tag/llvmorg-15.0.0-rc3), 6 days ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.27.0-rc.0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.27.0-rc.0), 1 day ago) - Native Android app using the Apple/Google exposure notification API.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.10.4](https://github.com/spicelang/spice/releases/tag/0.10.4), 4 days ago) - Spice Programming Language
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-15.0.0-rc3](https://github.com/llvm/llvm-project/releases/tag/llvmorg-15.0.0-rc3), 1 week ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.10.0](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.10.0), 1 week ago) - Screen Stream Android app
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.26.0-rc.4](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.26.0-rc.4), 1 week ago) - Native Android app using the Apple/Google exposure notification API.
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.4](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.4), 1 week ago) - GitHub Action to setup Spice 
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.13.0](https://github.com/pygments/pygments/releases/tag/2.13.0), 2 weeks ago) - Pygments is a generic syntax highlighter written in Python
 

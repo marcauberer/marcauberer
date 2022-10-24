@@ -7,10 +7,10 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.28.2-rc.0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.28.2-rc.0), 3 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-15.0.3](https://github.com/llvm/llvm-project/releases/tag/llvmorg-15.0.3), 5 days ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.12.1](https://github.com/spicelang/spice/releases/tag/0.12.1), 6 days ago) - Spice Programming Language
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.28.2-rc.0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.28.2-rc.0), 4 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-15.0.3](https://github.com/llvm/llvm-project/releases/tag/llvmorg-15.0.3), 6 days ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.12.1](https://github.com/spicelang/spice/releases/tag/0.12.1), 1 week ago) - Spice Programming Language
 - [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) ([1.0.6](https://github.com/skydoves/android-developer-roadmap/releases/tag/1.0.6), 2 weeks ago) - 🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.10.2](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.10.2), 3 weeks ago) - Screen Stream Android app
 - [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.5.0](https://github.com/compose-generator/ccom/releases/tag/1.5.0), 1 month ago) - ⚙️ Compiler for the CCom (Conditional Comments) language

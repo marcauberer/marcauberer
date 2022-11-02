@@ -7,9 +7,9 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.10.3](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.10.3), 2 days ago) - Screen Stream Android app
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.28.3](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.28.3), 2 days ago) - Native Android app using the Apple/Google exposure notification API.
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.12.2](https://github.com/spicelang/spice/releases/tag/0.12.2), 2 days ago) - Spice Programming Language
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.10.3](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.10.3), 3 days ago) - Screen Stream Android app
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v2.28.3](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v2.28.3), 3 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.12.2](https://github.com/spicelang/spice/releases/tag/0.12.2), 3 days ago) - Spice Programming Language
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-15.0.3](https://github.com/llvm/llvm-project/releases/tag/llvmorg-15.0.3), 2 weeks ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 - [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) ([1.0.6](https://github.com/skydoves/android-developer-roadmap/releases/tag/1.0.6), 3 weeks ago) - 🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.

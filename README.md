@@ -7,11 +7,11 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [ocornut/imgui](https://github.com/ocornut/imgui) ([v1.89.1](https://github.com/ocornut/imgui/releases/tag/v1.89.1), 4 days ago) - Dear ImGui: Bloat-free Graphical User interface for C&#43;&#43; with minimal dependencies
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v3.0.0-rc.2](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v3.0.0-rc.2), 5 days ago) - Native Android app using the Apple/Google exposure notification API.
+- [ocornut/imgui](https://github.com/ocornut/imgui) ([v1.89.1](https://github.com/ocornut/imgui/releases/tag/v1.89.1), 5 days ago) - Dear ImGui: Bloat-free Graphical User interface for C&#43;&#43; with minimal dependencies
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v3.0.0-rc.2](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v3.0.0-rc.2), 6 days ago) - Native Android app using the Apple/Google exposure notification API.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-15.0.5](https://github.com/llvm/llvm-project/releases/tag/llvmorg-15.0.5), 1 week ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.10.3](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.10.3), 4 weeks ago) - Screen Stream Android app
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.12.2](https://github.com/spicelang/spice/releases/tag/0.12.2), 4 weeks ago) - Spice Programming Language
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.10.3](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.10.3), 1 month ago) - Screen Stream Android app
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.12.2](https://github.com/spicelang/spice/releases/tag/0.12.2), 1 month ago) - Spice Programming Language
 - [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) ([1.0.6](https://github.com/skydoves/android-developer-roadmap/releases/tag/1.0.6), 1 month ago) - 🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.
 - [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.5.0](https://github.com/compose-generator/ccom/releases/tag/1.5.0), 2 months ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
 

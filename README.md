@@ -8,7 +8,7 @@
 
 
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ([3.10.4](https://github.com/dkrivoruchko/ScreenStream/releases/tag/3.10.4), 1 week ago) - Screen Stream Android app
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-15.0.6](https://github.com/llvm/llvm-project/releases/tag/llvmorg-15.0.6), 3 weeks ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-15.0.6](https://github.com/llvm/llvm-project/releases/tag/llvmorg-15.0.6), 4 weeks ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 - [ocornut/imgui](https://github.com/ocornut/imgui) ([v1.89.1](https://github.com/ocornut/imgui/releases/tag/v1.89.1), 1 month ago) - Dear ImGui: Bloat-free Graphical User interface for C&#43;&#43; with minimal dependencies
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.12.2](https://github.com/spicelang/spice/releases/tag/0.12.2), 1 month ago) - Spice Programming Language
 - [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) ([1.0.6](https://github.com/skydoves/android-developer-roadmap/releases/tag/1.0.6), 2 months ago) - 🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.

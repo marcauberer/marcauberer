@@ -7,12 +7,12 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.14.0](https://github.com/spicelang/spice/releases/tag/0.14.0), 1 day ago) - Spice Programming Language
+- [chillibits/color-converter](https://github.com/chillibits/color-converter) ([2.8.1](https://github.com/chillibits/color-converter/releases/tag/2.8.1), 1 day ago) - Tool for programmers / designers to pick and convert colors
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.14.0](https://github.com/spicelang/spice/releases/tag/0.14.0), 2 days ago) - Spice Programming Language
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-16.0.0](https://github.com/llvm/llvm-project/releases/tag/llvmorg-16.0.0), 1 week ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 - [ocornut/imgui](https://github.com/ocornut/imgui) ([v1.89.4](https://github.com/ocornut/imgui/releases/tag/v1.89.4), 1 week ago) - Dear ImGui: Bloat-free Graphical User interface for C&#43;&#43; with minimal dependencies
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.6](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.6), 1 month ago) - GitHub Action to setup Spice 
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.14.0](https://github.com/pygments/pygments/releases/tag/2.14.0), 2 months ago) - Pygments is a generic syntax highlighter written in Python
-- [chillibits/color-converter](https://github.com/chillibits/color-converter) ([2.8.0](https://github.com/chillibits/color-converter/releases/tag/2.8.0), 2 months ago) - Tool for programmers / designers to pick and convert colors
 - [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.5.0](https://github.com/compose-generator/ccom/releases/tag/1.5.0), 6 months ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
 
 ### 👨‍💻 Repositories I created recently

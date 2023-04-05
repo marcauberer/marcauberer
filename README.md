@@ -7,7 +7,7 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.14.2](https://github.com/spicelang/spice/releases/tag/0.14.2), 2 days ago) - Spice Programming Language
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.14.2](https://github.com/spicelang/spice/releases/tag/0.14.2), 3 days ago) - Spice Programming Language
 - [chillibits/color-converter](https://github.com/chillibits/color-converter) ([2.8.1](https://github.com/chillibits/color-converter/releases/tag/2.8.1), 1 week ago) - Tool for programmers / designers to pick and convert colors
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-16.0.0](https://github.com/llvm/llvm-project/releases/tag/llvmorg-16.0.0), 2 weeks ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 - [ocornut/imgui](https://github.com/ocornut/imgui) ([v1.89.4](https://github.com/ocornut/imgui/releases/tag/v1.89.4), 3 weeks ago) - Dear ImGui: Bloat-free Graphical User interface for C&#43;&#43; with minimal dependencies

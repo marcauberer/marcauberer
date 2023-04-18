@@ -7,8 +7,8 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.15.0](https://github.com/spicelang/spice/releases/tag/0.15.0), 1 day ago) - Spice Programming Language
-- [ocornut/imgui](https://github.com/ocornut/imgui) ([v1.89.5](https://github.com/ocornut/imgui/releases/tag/v1.89.5), 4 days ago) - Dear ImGui: Bloat-free Graphical User interface for C&#43;&#43; with minimal dependencies
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.15.0](https://github.com/spicelang/spice/releases/tag/0.15.0), 2 days ago) - Spice Programming Language
+- [ocornut/imgui](https://github.com/ocornut/imgui) ([v1.89.5](https://github.com/ocornut/imgui/releases/tag/v1.89.5), 5 days ago) - Dear ImGui: Bloat-free Graphical User interface for C&#43;&#43; with minimal dependencies
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.15.0](https://github.com/pygments/pygments/releases/tag/2.15.0), 1 week ago) - Pygments is a generic syntax highlighter written in Python
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-16.0.1](https://github.com/llvm/llvm-project/releases/tag/llvmorg-16.0.1), 1 week ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 - [chillibits/color-converter](https://github.com/chillibits/color-converter) ([2.8.1](https://github.com/chillibits/color-converter/releases/tag/2.8.1), 3 weeks ago) - Tool for programmers / designers to pick and convert colors

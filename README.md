@@ -7,12 +7,12 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-16.0.2](https://github.com/llvm/llvm-project/releases/tag/llvmorg-16.0.2), 1 day ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v3.2.0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v3.2.0), 1 day ago) - Native Android app using the Apple/Google exposure notification API. The CWA development ends on May 31, 2023. You still can warn other users until April 30, 2023. More information:
-- [pygments/pygments](https://github.com/pygments/pygments) ([2.15.1](https://github.com/pygments/pygments/releases/tag/2.15.1), 2 days ago) - Pygments is a generic syntax highlighter written in Python
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.15.0](https://github.com/spicelang/spice/releases/tag/0.15.0), 4 days ago) - Spice Programming Language
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-16.0.2](https://github.com/llvm/llvm-project/releases/tag/llvmorg-16.0.2), 2 days ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v3.2.0](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v3.2.0), 2 days ago) - Native Android app using the Apple/Google exposure notification API. The CWA development ends on May 31, 2023. You still can warn other users until April 30, 2023. More information:
+- [pygments/pygments](https://github.com/pygments/pygments) ([2.15.1](https://github.com/pygments/pygments/releases/tag/2.15.1), 3 days ago) - Pygments is a generic syntax highlighter written in Python
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.15.0](https://github.com/spicelang/spice/releases/tag/0.15.0), 5 days ago) - Spice Programming Language
 - [ocornut/imgui](https://github.com/ocornut/imgui) ([v1.89.5](https://github.com/ocornut/imgui/releases/tag/v1.89.5), 1 week ago) - Dear ImGui: Bloat-free Graphical User interface for C&#43;&#43; with minimal dependencies
-- [chillibits/color-converter](https://github.com/chillibits/color-converter) ([2.8.1](https://github.com/chillibits/color-converter/releases/tag/2.8.1), 3 weeks ago) - Tool for programmers / designers to pick and convert colors
+- [chillibits/color-converter](https://github.com/chillibits/color-converter) ([2.8.1](https://github.com/chillibits/color-converter/releases/tag/2.8.1), 4 weeks ago) - Tool for programmers / designers to pick and convert colors
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.6](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.6), 2 months ago) - GitHub Action to setup Spice 
 
 ### 👨‍💻 Repositories I created recently

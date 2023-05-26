@@ -7,7 +7,7 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [mui/mui-x](https://github.com/mui/mui-x) ([6.5.0](https://github.com/mui/mui-x/releases/tag/6.5.0), 6 days ago) - MUI X: Advanced and powerful React components for complex use-cases.
+- [mui/mui-x](https://github.com/mui/mui-x) ([6.5.0](https://github.com/mui/mui-x/releases/tag/6.5.0), 1 week ago) - MUI X: Advanced and powerful React components for complex use-cases.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-16.0.4](https://github.com/llvm/llvm-project/releases/tag/llvmorg-16.0.4), 1 week ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 - [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v3.2.1-RC1](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v3.2.1-RC1), 1 week ago) - Native Android app using the Apple/Google exposure notification API. The CWA development ends on May 31, 2023. You still can warn other users until April 30, 2023. More information:
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.15.2](https://github.com/spicelang/spice/releases/tag/0.15.2), 2 weeks ago) - Spice Programming Language

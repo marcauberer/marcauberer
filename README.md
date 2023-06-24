@@ -7,7 +7,7 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [mui/mui-x](https://github.com/mui/mui-x) ([v6.9.0](https://github.com/mui/mui-x/releases/tag/v6.9.0), 1 day ago) - MUI X: Build data-rich applications using a growing list of advanced React components.
+- [mui/mui-x](https://github.com/mui/mui-x) ([v6.9.0](https://github.com/mui/mui-x/releases/tag/v6.9.0), 2 days ago) - MUI X: Build data-rich applications using a growing list of advanced React components.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-16.0.6](https://github.com/llvm/llvm-project/releases/tag/llvmorg-16.0.6), 1 week ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.16.1](https://github.com/spicelang/spice/releases/tag/0.16.1), 2 weeks ago) - Spice Programming Language
 - [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ([v3.2.1](https://github.com/corona-warn-app/cwa-app-android/releases/tag/v3.2.1), 3 weeks ago) - Native Android app using the Apple/Google exposure notification API. The CWA development ends on May 31, 2023. You still can warn other users until April 30, 2023. More information:

@@ -7,8 +7,8 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.16.3](https://github.com/spicelang/spice/releases/tag/0.16.3), 2 days ago) - Spice Programming Language
-- [mui/mui-x](https://github.com/mui/mui-x) ([v6.9.2](https://github.com/mui/mui-x/releases/tag/v6.9.2), 6 days ago) - MUI X: Build data-rich applications using a growing list of advanced React components.
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.16.3](https://github.com/spicelang/spice/releases/tag/0.16.3), 3 days ago) - Spice Programming Language
+- [mui/mui-x](https://github.com/mui/mui-x) ([v6.9.2](https://github.com/mui/mui-x/releases/tag/v6.9.2), 1 week ago) - MUI X: Build data-rich applications using a growing list of advanced React components.
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.7](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.7), 1 week ago) - GitHub Action to setup Spice 
 - [ocornut/imgui](https://github.com/ocornut/imgui) ([v1.89.7](https://github.com/ocornut/imgui/releases/tag/v1.89.7), 1 week ago) - Dear ImGui: Bloat-free Graphical User interface for C&#43;&#43; with minimal dependencies
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-16.0.6](https://github.com/llvm/llvm-project/releases/tag/llvmorg-16.0.6), 4 weeks ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.

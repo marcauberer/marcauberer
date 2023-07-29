@@ -7,7 +7,7 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [mui/mui-x](https://github.com/mui/mui-x) ([v6.10.2](https://github.com/mui/mui-x/releases/tag/v6.10.2), 1 day ago) - MUI X: Build data-rich applications using a growing list of advanced React components.
+- [mui/mui-x](https://github.com/mui/mui-x) ([v6.10.2](https://github.com/mui/mui-x/releases/tag/v6.10.2), 2 days ago) - MUI X: Build data-rich applications using a growing list of advanced React components.
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.17.0](https://github.com/spicelang/spice/releases/tag/0.17.0), 1 week ago) - Spice Programming Language
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.7](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.7), 3 weeks ago) - GitHub Action to setup Spice 
 - [ocornut/imgui](https://github.com/ocornut/imgui) ([v1.89.7](https://github.com/ocornut/imgui/releases/tag/v1.89.7), 3 weeks ago) - Dear ImGui: Bloat-free Graphical User interface for C&#43;&#43; with minimal dependencies

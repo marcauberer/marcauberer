@@ -7,13 +7,13 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.17.6](https://github.com/spicelang/spice/releases/tag/0.17.6), 2 days ago) - Spice Programming Language
-- [mui/mui-x](https://github.com/mui/mui-x) ([v6.14.0](https://github.com/mui/mui-x/releases/tag/v6.14.0), 5 days ago) - MUI X: Build data-rich applications using a growing list of advanced React components.
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-17.0.0-rc4](https://github.com/llvm/llvm-project/releases/tag/llvmorg-17.0.0-rc4), 2 weeks ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [ocornut/imgui](https://github.com/ocornut/imgui) ([v1.89.9](https://github.com/ocornut/imgui/releases/tag/v1.89.9), 2 weeks ago) - Dear ImGui: Bloat-free Graphical User interface for C&#43;&#43; with minimal dependencies
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-17.0.1](https://github.com/llvm/llvm-project/releases/tag/llvmorg-17.0.1), 1 day ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.3.2](https://github.com/squidfunk/mkdocs-material/releases/tag/9.3.2), 1 day ago) - Documentation that simply works
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.17.6](https://github.com/spicelang/spice/releases/tag/0.17.6), 3 days ago) - Spice Programming Language
+- [mui/mui-x](https://github.com/mui/mui-x) ([v6.14.0](https://github.com/mui/mui-x/releases/tag/v6.14.0), 6 days ago) - MUI X: Build data-rich applications using a growing list of advanced React components.
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.16.1](https://github.com/pygments/pygments/releases/tag/2.16.1), 1 month ago) - Pygments is a generic syntax highlighter written in Python
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.7](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.7), 2 months ago) - GitHub Action to setup Spice 
-- [chillibits/color-converter](https://github.com/chillibits/color-converter) ([2.8.1](https://github.com/chillibits/color-converter/releases/tag/2.8.1), 5 months ago) - Tool for programmers / designers to pick and convert colors
+- [chillibits/color-converter](https://github.com/chillibits/color-converter) ([2.8.1](https://github.com/chillibits/color-converter/releases/tag/2.8.1), 6 months ago) - Tool for programmers / designers to pick and convert colors
 
 ### 👨‍💻 Repositories I created recently
 - [marcauberer/spice-demo](https://github.com/marcauberer/spice-demo) - Demo for the Spice programming language

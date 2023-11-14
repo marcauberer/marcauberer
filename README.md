@@ -7,10 +7,10 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.18.1](https://github.com/spicelang/spice/releases/tag/0.18.1), 1 day ago) - Spice Programming Language
-- [mui/mui-x](https://github.com/mui/mui-x) ([v7.0.0-alpha.0](https://github.com/mui/mui-x/releases/tag/v7.0.0-alpha.0), 3 days ago) - MUI X: Build data-rich applications using a growing list of advanced React components.
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.18.1](https://github.com/spicelang/spice/releases/tag/0.18.1), 2 days ago) - Spice Programming Language
+- [mui/mui-x](https://github.com/mui/mui-x) ([v7.0.0-alpha.0](https://github.com/mui/mui-x/releases/tag/v7.0.0-alpha.0), 4 days ago) - MUI X: Build data-rich applications using a growing list of advanced React components.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.4.8](https://github.com/squidfunk/mkdocs-material/releases/tag/9.4.8), 1 week ago) - Documentation that simply works
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-17.0.4](https://github.com/llvm/llvm-project/releases/tag/llvmorg-17.0.4), 1 week ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-17.0.4](https://github.com/llvm/llvm-project/releases/tag/llvmorg-17.0.4), 2 weeks ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.16.1](https://github.com/pygments/pygments/releases/tag/2.16.1), 3 months ago) - Pygments is a generic syntax highlighter written in Python
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.7](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.7), 4 months ago) - GitHub Action to setup Spice 
 - [chillibits/color-converter](https://github.com/chillibits/color-converter) ([2.8.1](https://github.com/chillibits/color-converter/releases/tag/2.8.1), 7 months ago) - Tool for programmers / designers to pick and convert colors

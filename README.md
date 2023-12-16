@@ -7,8 +7,8 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [mui/mui-x](https://github.com/mui/mui-x) ([v7.0.0-alpha.5](https://github.com/mui/mui-x/releases/tag/v7.0.0-alpha.5), 1 day ago) - MUI X: Build data-rich applications using a growing list of advanced React components.
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.2](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.2), 4 days ago) - Documentation that simply works
+- [mui/mui-x](https://github.com/mui/mui-x) ([v7.0.0-alpha.5](https://github.com/mui/mui-x/releases/tag/v7.0.0-alpha.5), 2 days ago) - MUI X: Build data-rich applications using a growing list of advanced React components.
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.2](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.2), 5 days ago) - Documentation that simply works
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.18.3](https://github.com/spicelang/spice/releases/tag/0.18.3), 1 week ago) - Spice Programming Language
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-17.0.6](https://github.com/llvm/llvm-project/releases/tag/llvmorg-17.0.6), 2 weeks ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.17.2](https://github.com/pygments/pygments/releases/tag/2.17.2), 3 weeks ago) - Pygments is a generic syntax highlighter written in Python

@@ -7,7 +7,7 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.18.4](https://github.com/spicelang/spice/releases/tag/0.18.4), 2 days ago) - Spice Programming Language
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.18.4](https://github.com/spicelang/spice/releases/tag/0.18.4), 3 days ago) - Spice Programming Language
 - [mui/mui-x](https://github.com/mui/mui-x) ([v7.0.0-alpha.5](https://github.com/mui/mui-x/releases/tag/v7.0.0-alpha.5), 1 week ago) - MUI X: Build data-rich applications using a growing list of advanced React components.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.2](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.2), 1 week ago) - Documentation that simply works
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-17.0.6](https://github.com/llvm/llvm-project/releases/tag/llvmorg-17.0.6), 3 weeks ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.

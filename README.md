@@ -7,12 +7,12 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.18.5](https://github.com/spicelang/spice/releases/tag/0.18.5), 1 day ago) - Spice Programming Language
+- [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.8](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.8), 1 day ago) - GitHub Action to setup Spice 
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.18.5](https://github.com/spicelang/spice/releases/tag/0.18.5), 2 days ago) - Spice Programming Language
 - [mui/mui-x](https://github.com/mui/mui-x) ([v6.18.6](https://github.com/mui/mui-x/releases/tag/v6.18.6), 1 week ago) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.3](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.3), 1 week ago) - Documentation that simply works
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-17.0.6](https://github.com/llvm/llvm-project/releases/tag/llvmorg-17.0.6), 1 month ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.17.2](https://github.com/pygments/pygments/releases/tag/2.17.2), 1 month ago) - Pygments is a generic syntax highlighter written in Python
-- [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.7](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.7), 6 months ago) - GitHub Action to setup Spice 
 - [chillibits/color-converter](https://github.com/chillibits/color-converter) ([2.8.1](https://github.com/chillibits/color-converter/releases/tag/2.8.1), 9 months ago) - Tool for programmers / designers to pick and convert colors
 
 ### 👨‍💻 Repositories I created recently

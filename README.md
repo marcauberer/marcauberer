@@ -7,8 +7,8 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [mui/mui-x](https://github.com/mui/mui-x) ([v7.0.0-alpha.8](https://github.com/mui/mui-x/releases/tag/v7.0.0-alpha.8), 2 days ago) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
-- [spicelang/vscode-spice](https://github.com/spicelang/vscode-spice) ([1.1.0](https://github.com/spicelang/vscode-spice/releases/tag/1.1.0), 4 days ago) - VSCode language extension
+- [mui/mui-x](https://github.com/mui/mui-x) ([v7.0.0-alpha.8](https://github.com/mui/mui-x/releases/tag/v7.0.0-alpha.8), 3 days ago) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
+- [spicelang/vscode-spice](https://github.com/spicelang/vscode-spice) ([1.1.0](https://github.com/spicelang/vscode-spice/releases/tag/1.1.0), 5 days ago) - VSCode language extension
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.9](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.9), 1 week ago) - GitHub Action to setup Spice 
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.19.0](https://github.com/spicelang/spice/releases/tag/0.19.0), 1 week ago) - Spice Programming Language
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.3](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.3), 3 weeks ago) - Documentation that simply works

@@ -7,13 +7,13 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.19.1](https://github.com/spicelang/spice/releases/tag/0.19.1), 2 days ago) - Spice Programming Language
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.4](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.4), 4 days ago) - Documentation that simply works
-- [mui/mui-x](https://github.com/mui/mui-x) ([v7.0.0-alpha.8](https://github.com/mui/mui-x/releases/tag/v7.0.0-alpha.8), 1 week ago) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
+- [mui/mui-x](https://github.com/mui/mui-x) ([v6.19.1](https://github.com/mui/mui-x/releases/tag/v6.19.1), 1 day ago) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.19.1](https://github.com/spicelang/spice/releases/tag/0.19.1), 3 days ago) - Spice Programming Language
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.4](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.4), 5 days ago) - Documentation that simply works
 - [spicelang/vscode-spice](https://github.com/spicelang/vscode-spice) ([1.1.0](https://github.com/spicelang/vscode-spice/releases/tag/1.1.0), 1 week ago) - VSCode language extension
-- [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.9](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.9), 1 week ago) - GitHub Action to setup Spice 
+- [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.9](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.9), 2 weeks ago) - GitHub Action to setup Spice 
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-17.0.6](https://github.com/llvm/llvm-project/releases/tag/llvmorg-17.0.6), 1 month ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [pygments/pygments](https://github.com/pygments/pygments) ([2.17.2](https://github.com/pygments/pygments/releases/tag/2.17.2), 1 month ago) - Pygments is a generic syntax highlighter written in Python
+- [pygments/pygments](https://github.com/pygments/pygments) ([2.17.2](https://github.com/pygments/pygments/releases/tag/2.17.2), 2 months ago) - Pygments is a generic syntax highlighter written in Python
 
 ### 👨‍💻 Repositories I created recently
 - [marcauberer/spice-demo](https://github.com/marcauberer/spice-demo) - Demo for the Spice programming language

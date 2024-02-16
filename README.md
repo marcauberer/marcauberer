@@ -7,10 +7,10 @@
 ### 🚀 Latest releases I've contributed to
 
 
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.9](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.9), 5 days ago) - Documentation that simply works
-- [mui/mui-x](https://github.com/mui/mui-x) ([v7.0.0-beta.2](https://github.com/mui/mui-x/releases/tag/v7.0.0-beta.2), 6 days ago) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.9](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.9), 6 days ago) - Documentation that simply works
+- [mui/mui-x](https://github.com/mui/mui-x) ([v7.0.0-beta.2](https://github.com/mui/mui-x/releases/tag/v7.0.0-beta.2), 1 week ago) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-18.1.0-rc2](https://github.com/llvm/llvm-project/releases/tag/llvmorg-18.1.0-rc2), 1 week ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.19.2](https://github.com/spicelang/spice/releases/tag/0.19.2), 1 week ago) - Spice Programming Language
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.19.2](https://github.com/spicelang/spice/releases/tag/0.19.2), 2 weeks ago) - Spice Programming Language
 - [spicelang/vscode-spice](https://github.com/spicelang/vscode-spice) ([1.1.0](https://github.com/spicelang/vscode-spice/releases/tag/1.1.0), 1 month ago) - VSCode language extension
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.9](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.9), 1 month ago) - GitHub Action to setup Spice 
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.17.2](https://github.com/pygments/pygments/releases/tag/2.17.2), 2 months ago) - Pygments is a generic syntax highlighter written in Python

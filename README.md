@@ -4,7 +4,7 @@
 	<b>Hi, I'm Marc. Compiler Developer at SAP and Software and OpenSource enthusiast. Thanks for visiting my GitHub profile!
 </p>
 
-### 🚀 Latest releases I've contributed to
+### 🚀 Latest releases for projects I've contributed to
 
 
 - [mui/mui-x](https://github.com/mui/mui-x) ([v7.1.1](https://github.com/mui/mui-x/releases/tag/v7.1.1), 1 day ago) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!

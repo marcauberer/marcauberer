@@ -7,7 +7,7 @@
 ### 🚀 Latest releases for projects I've contributed to
 
 
-- [mui/mui-x](https://github.com/mui/mui-x) ([v6.19.10](https://github.com/mui/mui-x/releases/tag/v6.19.10), 1 day ago) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
+- [mui/mui-x](https://github.com/mui/mui-x) ([v6.19.10](https://github.com/mui/mui-x/releases/tag/v6.19.10), 2 days ago) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-18.1.3](https://github.com/llvm/llvm-project/releases/tag/llvmorg-18.1.3), 1 week ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.17](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.17), 1 week ago) - Documentation that simply works
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.19.5](https://github.com/spicelang/spice/releases/tag/0.19.5), 3 weeks ago) - Spice Programming Language

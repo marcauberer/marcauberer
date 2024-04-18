@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="https://raw.githubusercontent.com/marcauberer/marcauberer/master/images/frontpage-image.jpg">
 	<br><br>
-	<b>Hi, I'm Marc. Compiler Developer at SAP and Software and OpenSource enthusiast. Thanks for visiting my GitHub profile!
+	<b>Hi, I'm Marc. Compiler Engineer at SAP and Software and OpenSource enthusiast. Thanks for visiting my GitHub profile!
 </p>
 
 ### 🚀 Latest releases for projects I've contributed to

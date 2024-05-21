@@ -7,8 +7,8 @@
 ### 🚀 Latest releases for projects I've contributed to
 
 
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-18.1.6](https://github.com/llvm/llvm-project/releases/tag/llvmorg-18.1.6), 2 days ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.23](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.23), 5 days ago) - Documentation that simply works
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.24](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.24), 1 day ago) - Documentation that simply works
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-18.1.6](https://github.com/llvm/llvm-project/releases/tag/llvmorg-18.1.6), 3 days ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.11](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.11), 2 weeks ago) - GitHub Action to setup Spice 
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.18.0](https://github.com/pygments/pygments/releases/tag/2.18.0), 2 weeks ago) - Pygments is a generic syntax highlighter written in Python
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.19.6](https://github.com/spicelang/spice/releases/tag/0.19.6), 3 weeks ago) - Spice Programming Language

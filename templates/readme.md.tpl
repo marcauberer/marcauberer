@@ -6,7 +6,7 @@
 
 ### 🚀 Latest releases for projects I've contributed to
 
-{{ range recentReleases 7 }}
+{{ range recentReleases 5 }}
 - [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}){{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
 

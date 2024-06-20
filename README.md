@@ -12,8 +12,6 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.27](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.27), 4 days ago) - Documentation that simply works
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.13](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.13), 4 weeks ago) - GitHub Action to setup Spice 
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.18.0](https://github.com/pygments/pygments/releases/tag/2.18.0), 1 month ago) - Pygments is a generic syntax highlighter written in Python
-- [spicelang/vscode-spice](https://github.com/spicelang/vscode-spice) ([1.1.0](https://github.com/spicelang/vscode-spice/releases/tag/1.1.0), 5 months ago) - VSCode language extension
-- [marcauberer/compose-number-picker](https://github.com/marcauberer/compose-number-picker) ([1.1.1](https://github.com/marcauberer/compose-number-picker/releases/tag/1.1.1), 2 years ago) - 🔢 Jetpack Compose compatible number picker for Android
 
 ### 👨‍💻 Repositories I created recently
 - [marcauberer/compiler-design-lecture-project-TINF22B6](https://github.com/marcauberer/compiler-design-lecture-project-TINF22B6) - Compiler Design Lecture Project TINF22B6

@@ -7,9 +7,9 @@
 ### 🚀 Latest releases for projects I've contributed to
 
 
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-18.1.8](https://github.com/llvm/llvm-project/releases/tag/llvmorg-18.1.8), 1 day ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.20.2](https://github.com/spicelang/spice/releases/tag/0.20.2), 4 days ago) - Spice Programming Language
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.27](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.27), 4 days ago) - Documentation that simply works
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-18.1.8](https://github.com/llvm/llvm-project/releases/tag/llvmorg-18.1.8), 2 days ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.20.2](https://github.com/spicelang/spice/releases/tag/0.20.2), 5 days ago) - Spice Programming Language
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.27](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.27), 5 days ago) - Documentation that simply works
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.13](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.13), 4 weeks ago) - GitHub Action to setup Spice 
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.18.0](https://github.com/pygments/pygments/releases/tag/2.18.0), 1 month ago) - Pygments is a generic syntax highlighter written in Python
 

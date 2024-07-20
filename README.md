@@ -7,7 +7,7 @@
 ### 🚀 Latest releases for projects I've contributed to
 
 
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.29](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.29), 5 days ago) - Documentation that simply works
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.29](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.29), 6 days ago) - Documentation that simply works
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-18.1.8](https://github.com/llvm/llvm-project/releases/tag/llvmorg-18.1.8), 1 month ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.20.2](https://github.com/spicelang/spice/releases/tag/0.20.2), 1 month ago) - Spice Programming Language
 - [aldabil21/react-scheduler](https://github.com/aldabil21/react-scheduler) ([2.9.3](https://github.com/aldabil21/react-scheduler/releases/tag/2.9.3), 1 month ago) - React scheduler component based on Material-UI &amp; date-fns

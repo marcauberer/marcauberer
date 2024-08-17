@@ -7,7 +7,7 @@
 ### 🚀 Latest releases for projects I've contributed to
 
 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.20.4](https://github.com/spicelang/spice/releases/tag/0.20.4), 5 days ago) - Spice Programming Language
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.20.4](https://github.com/spicelang/spice/releases/tag/0.20.4), 6 days ago) - Spice Programming Language
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-19.1.0-rc2](https://github.com/llvm/llvm-project/releases/tag/llvmorg-19.1.0-rc2), 1 week ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.31](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.31), 2 weeks ago) - Documentation that simply works
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.14](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.14), 3 weeks ago) - GitHub Action to setup Spice 

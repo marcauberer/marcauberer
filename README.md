@@ -7,8 +7,8 @@
 ### 🚀 Latest releases for projects I've contributed to
 
 
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-19.1.0](https://github.com/llvm/llvm-project/releases/tag/llvmorg-19.1.0), 1 day ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [aldabil21/react-scheduler](https://github.com/aldabil21/react-scheduler) ([2.9.5](https://github.com/aldabil21/react-scheduler/releases/tag/2.9.5), 1 week ago) - React scheduler component based on Material-UI &amp; date-fns
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-19.1.0-rc4](https://github.com/llvm/llvm-project/releases/tag/llvmorg-19.1.0-rc4), 2 weeks ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.20.5](https://github.com/spicelang/spice/releases/tag/0.20.5), 2 weeks ago) - Spice Programming Language
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.34](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.34), 2 weeks ago) - Documentation that simply works
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.14](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.14), 1 month ago) - GitHub Action to setup Spice 

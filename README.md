@@ -7,8 +7,8 @@
 ### 🚀 Latest releases for projects I've contributed to
 
 
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-19.1.1](https://github.com/llvm/llvm-project/releases/tag/llvmorg-19.1.1), 1 day ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [aldabil21/react-scheduler](https://github.com/aldabil21/react-scheduler) ([2.9.5](https://github.com/aldabil21/react-scheduler/releases/tag/2.9.5), 3 weeks ago) - React scheduler component based on Material-UI &amp; date-fns
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-19.1.1](https://github.com/llvm/llvm-project/releases/tag/llvmorg-19.1.1), 2 days ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+- [aldabil21/react-scheduler](https://github.com/aldabil21/react-scheduler) ([2.9.5](https://github.com/aldabil21/react-scheduler/releases/tag/2.9.5), 4 weeks ago) - React scheduler component based on Material-UI &amp; date-fns
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.20.5](https://github.com/spicelang/spice/releases/tag/0.20.5), 1 month ago) - Spice Programming Language
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.14](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.14), 2 months ago) - GitHub Action to setup Spice 
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.18.0](https://github.com/pygments/pygments/releases/tag/2.18.0), 5 months ago) - Pygments is a generic syntax highlighter written in Python

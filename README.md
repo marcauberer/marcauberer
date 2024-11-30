@@ -11,7 +11,7 @@
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.20.6](https://github.com/spicelang/spice/releases/tag/0.20.6), 1 month ago) - Spice Programming Language
 - [aldabil21/react-scheduler](https://github.com/aldabil21/react-scheduler) ([2.9.5](https://github.com/aldabil21/react-scheduler/releases/tag/2.9.5), 2 months ago) - React scheduler component based on Material-UI &amp; date-fns
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.14](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.14), 4 months ago) - GitHub Action to setup Spice 
-- [pygments/pygments](https://github.com/pygments/pygments) ([2.18.0](https://github.com/pygments/pygments/releases/tag/2.18.0), 6 months ago) - Pygments is a generic syntax highlighter written in Python
+- [pygments/pygments](https://github.com/pygments/pygments) ([2.18.0](https://github.com/pygments/pygments/releases/tag/2.18.0), 7 months ago) - Pygments is a generic syntax highlighter written in Python
 
 ### 👨‍💻 Repositories I created recently
 - [marcauberer/compiler-design-series-init](https://github.com/marcauberer/compiler-design-series-init) - Example project template for the compiler design article series

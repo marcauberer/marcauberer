@@ -7,7 +7,7 @@
 ### 🚀 Latest releases for projects I've contributed to
 
 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.21.1](https://github.com/spicelang/spice/releases/tag/0.21.1), 6 days ago) - Spice Programming Language
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.21.1](https://github.com/spicelang/spice/releases/tag/0.21.1), 1 week ago) - Spice Programming Language
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-20.1.0-rc1](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.0-rc1), 1 week ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.6.0](https://github.com/compose-generator/ccom/releases/tag/1.6.0), 1 month ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
 - [aldabil21/react-scheduler](https://github.com/aldabil21/react-scheduler) ([2.9.5](https://github.com/aldabil21/react-scheduler/releases/tag/2.9.5), 5 months ago) - React scheduler component based on Material-UI &amp; date-fns

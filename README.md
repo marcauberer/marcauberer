@@ -7,8 +7,8 @@
 ### 🚀 Latest releases for projects I've contributed to
 
 
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-20.1.5](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.5), 3 days ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.22.2](https://github.com/spicelang/spice/releases/tag/0.22.2), 4 days ago) - Spice Programming Language
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-20.1.5](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.5), 4 days ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.22.2](https://github.com/spicelang/spice/releases/tag/0.22.2), 5 days ago) - Spice Programming Language
 - [aldabil21/react-scheduler](https://github.com/aldabil21/react-scheduler) ([3.1.2](https://github.com/aldabil21/react-scheduler/releases/tag/3.1.2), 4 weeks ago) - React scheduler component based on Material-UI &amp; date-fns
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.16](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.16), 3 months ago) - GitHub Action to setup Spice 
 - [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.6.0](https://github.com/compose-generator/ccom/releases/tag/1.6.0), 4 months ago) - ⚙️ Compiler for the CCom (Conditional Comments) language

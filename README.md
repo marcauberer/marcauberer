@@ -11,7 +11,7 @@
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.22.2](https://github.com/spicelang/spice/releases/tag/0.22.2), 1 week ago) - Spice Programming Language
 - [aldabil21/react-scheduler](https://github.com/aldabil21/react-scheduler) ([3.1.2](https://github.com/aldabil21/react-scheduler/releases/tag/3.1.2), 1 month ago) - React scheduler component based on Material-UI &amp; date-fns
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.16](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.16), 3 months ago) - GitHub Action to setup Spice 
-- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.6.0](https://github.com/compose-generator/ccom/releases/tag/1.6.0), 4 months ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
+- [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.6.0](https://github.com/compose-generator/ccom/releases/tag/1.6.0), 5 months ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
 
 ### 👨‍💻 Repositories I created recently
 - [marcauberer/compiler-design-lecture-project-TINF23B6](https://github.com/marcauberer/compiler-design-lecture-project-TINF23B6) - Compiler Design Lecture Project TINF23B6

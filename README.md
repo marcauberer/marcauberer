@@ -7,7 +7,7 @@
 ### 🚀 Latest releases for projects I've contributed to
 
 
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-21.1.2](https://github.com/llvm/llvm-project/releases/tag/llvmorg-21.1.2), 6 days ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-21.1.2](https://github.com/llvm/llvm-project/releases/tag/llvmorg-21.1.2), 1 week ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.17](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.17), 2 weeks ago) - GitHub Action to setup Spice 
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.22.4](https://github.com/spicelang/spice/releases/tag/0.22.4), 2 weeks ago) - Spice Programming Language
 - [aldabil21/react-scheduler](https://github.com/aldabil21/react-scheduler) ([3.1.2](https://github.com/aldabil21/react-scheduler/releases/tag/3.1.2), 5 months ago) - React scheduler component based on Material-UI &amp; date-fns

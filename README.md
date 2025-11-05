@@ -7,11 +7,11 @@
 ### 🚀 Latest releases for projects I've contributed to
 
 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.22.5](https://github.com/spicelang/spice/releases/tag/0.22.5), 1 week ago) - Spice Programming Language
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-21.1.4](https://github.com/llvm/llvm-project/releases/tag/llvmorg-21.1.4), 2 weeks ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-21.1.5](https://github.com/llvm/llvm-project/releases/tag/llvmorg-21.1.5), 1 day ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.22.5](https://github.com/spicelang/spice/releases/tag/0.22.5), 2 weeks ago) - Spice Programming Language
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.17](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.17), 1 month ago) - GitHub Action to setup Spice 
-- [aldabil21/react-scheduler](https://github.com/aldabil21/react-scheduler) ([3.1.2](https://github.com/aldabil21/react-scheduler/releases/tag/3.1.2), 6 months ago) - React scheduler component based on Material-UI &amp; date-fns
 - [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.6.0](https://github.com/compose-generator/ccom/releases/tag/1.6.0), 10 months ago) - ⚙️ Compiler for the CCom (Conditional Comments) language
+- [spicelang/vscode-spice](https://github.com/spicelang/vscode-spice) ([1.1.0](https://github.com/spicelang/vscode-spice/releases/tag/1.1.0), 2 years ago) - VSCode language extension
 
 ### 👨‍💻 Repositories I created recently
 - [marcauberer/compiler-design-series-init](https://github.com/marcauberer/compiler-design-series-init) - Example project template for the compiler design article series

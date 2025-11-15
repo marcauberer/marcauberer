@@ -7,7 +7,7 @@
 ### 🚀 Latest releases for projects I've contributed to
 
 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.24.0](https://github.com/spicelang/spice/releases/tag/0.24.0), 4 days ago) - Spice Programming Language
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.24.0](https://github.com/spicelang/spice/releases/tag/0.24.0), 5 days ago) - Spice Programming Language
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-21.1.5](https://github.com/llvm/llvm-project/releases/tag/llvmorg-21.1.5), 1 week ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.17](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.17), 2 months ago) - GitHub Action to setup Spice 
 - [compose-generator/ccom](https://github.com/compose-generator/ccom) ([1.6.0](https://github.com/compose-generator/ccom/releases/tag/1.6.0), 10 months ago) - ⚙️ Compiler for the CCom (Conditional Comments) language

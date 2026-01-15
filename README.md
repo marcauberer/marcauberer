@@ -7,9 +7,9 @@
 ### 🚀 Latest releases for projects I've contributed to
 
 
-- [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.20](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.20), 4 days ago) - GitHub Action to setup Spice 
+- [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.20](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.20), 5 days ago) - GitHub Action to setup Spice 
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.24.3](https://github.com/spicelang/spice/releases/tag/0.24.3), 1 week ago) - Spice Programming Language
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-21.1.8](https://github.com/llvm/llvm-project/releases/tag/llvmorg-21.1.8), 4 weeks ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-21.1.8](https://github.com/llvm/llvm-project/releases/tag/llvmorg-21.1.8), 1 month ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [spicelang/vscode-spice](https://github.com/spicelang/vscode-spice) ([1.1.0](https://github.com/spicelang/vscode-spice/releases/tag/1.1.0), 2 years ago) - VSCode language extension
 - [spicelang/intellij-spice](https://github.com/spicelang/intellij-spice) ([1.0.1](https://github.com/spicelang/intellij-spice/releases/tag/1.0.1), 3 years ago) - IntelliJ language extension for Spice
 

@@ -7,7 +7,7 @@
 ### 🚀 Latest releases for projects I've contributed to
 
 
-- [pygments/pygments](https://github.com/pygments/pygments) ([2.20.0](https://github.com/pygments/pygments/releases/tag/2.20.0), 6 days ago) - Pygments is a generic syntax highlighter written in Python
+- [pygments/pygments](https://github.com/pygments/pygments) ([2.20.0](https://github.com/pygments/pygments/releases/tag/2.20.0), 1 week ago) - Pygments is a generic syntax highlighter written in Python
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-22.1.2](https://github.com/llvm/llvm-project/releases/tag/llvmorg-22.1.2), 1 week ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.21](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.21), 2 weeks ago) - GitHub Action to setup Spice 
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.25.0](https://github.com/spicelang/spice/releases/tag/0.25.0), 2 weeks ago) - Spice Programming Language

@@ -7,9 +7,9 @@
 ### 🚀 Latest releases for projects I've contributed to
 
 
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-22.1.8](https://github.com/llvm/llvm-project/releases/tag/llvmorg-22.1.8), 1 day ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-22.1.8](https://github.com/llvm/llvm-project/releases/tag/llvmorg-22.1.8), 2 days ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.23](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.23), 1 week ago) - GitHub Action to setup Spice 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.26.0](https://github.com/spicelang/spice/releases/tag/0.26.0), 1 week ago) - Compiler and standard library for the Spice programming language.
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.26.0](https://github.com/spicelang/spice/releases/tag/0.26.0), 2 weeks ago) - Compiler and standard library for the Spice programming language.
 - [pygments/pygments](https://github.com/pygments/pygments) ([2.20.0](https://github.com/pygments/pygments/releases/tag/2.20.0), 2 months ago) - Pygments is a generic syntax highlighter written in Python
 - [spicelang/vscode-spice](https://github.com/spicelang/vscode-spice) ([1.1.0](https://github.com/spicelang/vscode-spice/releases/tag/1.1.0), 2 years ago) - VSCode language extension
 

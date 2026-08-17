@@ -7,10 +7,10 @@
 ### 🚀 Latest releases for projects I've contributed to
 
 
+- [pygments/pygments](https://github.com/pygments/pygments) ([2.21.0](https://github.com/pygments/pygments/releases/tag/2.21.0), today) - Pygments is a generic syntax highlighter written in Python
 - [spicelang/spice](https://github.com/spicelang/spice) ([0.27.1](https://github.com/spicelang/spice/releases/tag/0.27.1), 2 days ago) - Compiler and standard library for the Spice programming language.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-23.1.0-rc3](https://github.com/llvm/llvm-project/releases/tag/llvmorg-23.1.0-rc3), 5 days ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.25](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.25), 2 weeks ago) - GitHub Action to setup Spice 
-- [pygments/pygments](https://github.com/pygments/pygments) ([2.20.0](https://github.com/pygments/pygments/releases/tag/2.20.0), 4 months ago) - Pygments is a generic syntax highlighter written in Python
 - [spicelang/vscode-spice](https://github.com/spicelang/vscode-spice) ([1.1.0](https://github.com/spicelang/vscode-spice/releases/tag/1.1.0), 2 years ago) - VSCode language extension
 
 ### 👨‍💻 Repositories I created recently
@@ -19,5 +19,5 @@
 - [marcauberer/spice-demo](https://github.com/marcauberer/spice-demo) - Demo for the Spice programming language
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=marcauberer&show_icons=true&theme=dark" alt="GitHub stats">
+	<img src="https://github-stats-extended.vercel.app/api?username=marcauberer&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub stats">
 </p>

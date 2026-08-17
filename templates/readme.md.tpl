@@ -17,5 +17,5 @@
 {{- end }}
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=marcauberer&show_icons=true&theme=dark" alt="GitHub stats">
+	<img src="https://github-stats-extended.vercel.app/api?username=marcauberer&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub stats">
 </p>

@@ -7,10 +7,10 @@
 ### 🚀 Latest releases for projects I've contributed to
 
 
-- [spicelang/demo-package](https://github.com/spicelang/demo-package) ([v1.0.0](https://github.com/spicelang/demo-package/releases/tag/v1.0.0), 1 day ago) - Demo package for the Spice package manager
-- [spicelang/spice-rack](https://github.com/spicelang/spice-rack) ([v0.2.0](https://github.com/spicelang/spice-rack/releases/tag/v0.2.0), 1 day ago) - Package repository for the Spice programming language
-- [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.26](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.26), 2 days ago) - GitHub Action to setup Spice 
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.29.0](https://github.com/spicelang/spice/releases/tag/0.29.0), 4 days ago) - Compiler and standard library for the Spice programming language.
+- [spicelang/spice-rack](https://github.com/spicelang/spice-rack) ([v0.3.0](https://github.com/spicelang/spice-rack/releases/tag/v0.3.0), 1 day ago) - Package registry for the Spice programming language
+- [spicelang/demo-package](https://github.com/spicelang/demo-package) ([v1.0.1](https://github.com/spicelang/demo-package/releases/tag/v1.0.1), 1 day ago) - Demo package for the Spice package manager
+- [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.0.26](https://github.com/spicelang/spice-setup-action/releases/tag/v1.0.26), 3 days ago) - GitHub Action to setup Spice 
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.29.0](https://github.com/spicelang/spice/releases/tag/0.29.0), 5 days ago) - Compiler and standard library for the Spice programming language.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-23.1.3](https://github.com/llvm/llvm-project/releases/tag/llvmorg-23.1.3), 1 week ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ### 👨‍💻 Repositories I created recently

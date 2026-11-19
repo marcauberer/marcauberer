@@ -7,11 +7,11 @@
 ### 🚀 Latest releases for projects I've contributed to
 
 
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-23.1.6](https://github.com/llvm/llvm-project/releases/tag/llvmorg-23.1.6), 1 day ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [spicelang/chrome-github-plugin](https://github.com/spicelang/chrome-github-plugin) ([1.0.0](https://github.com/spicelang/chrome-github-plugin/releases/tag/1.0.0), 3 days ago) - Chrome Plugin to syntax highlight Spice on GitHub
-- [spicelang/spice-shaker](https://github.com/spicelang/spice-shaker) ([0.2.0](https://github.com/spicelang/spice-shaker/releases/tag/0.2.0), 5 days ago) - Package manager for the Spice Programming Language
-- [spicelang/spice](https://github.com/spicelang/spice) ([0.29.4](https://github.com/spicelang/spice/releases/tag/0.29.4), 5 days ago) - Compiler and standard library for the Spice programming language.
-- [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.1.0](https://github.com/spicelang/spice-setup-action/releases/tag/v1.1.0), 5 days ago) - GitHub Action to setup Spice 
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([llvmorg-23.1.6](https://github.com/llvm/llvm-project/releases/tag/llvmorg-23.1.6), 2 days ago) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+- [spicelang/chrome-github-plugin](https://github.com/spicelang/chrome-github-plugin) ([1.0.0](https://github.com/spicelang/chrome-github-plugin/releases/tag/1.0.0), 4 days ago) - Chrome Plugin to syntax highlight Spice on GitHub
+- [spicelang/spice-shaker](https://github.com/spicelang/spice-shaker) ([0.2.0](https://github.com/spicelang/spice-shaker/releases/tag/0.2.0), 6 days ago) - Package manager for the Spice Programming Language
+- [spicelang/spice](https://github.com/spicelang/spice) ([0.29.4](https://github.com/spicelang/spice/releases/tag/0.29.4), 6 days ago) - Compiler and standard library for the Spice programming language.
+- [spicelang/spice-setup-action](https://github.com/spicelang/spice-setup-action) ([v1.1.0](https://github.com/spicelang/spice-setup-action/releases/tag/v1.1.0), 6 days ago) - GitHub Action to setup Spice 
 
 ### 👨‍💻 Repositories I created recently
 - [marcauberer/compiler-design-series-init](https://github.com/marcauberer/compiler-design-series-init) - Example project template for the compiler design article series
